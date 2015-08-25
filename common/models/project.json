@@ -1,0 +1,40 @@
+{
+  "name": "project",
+  "base": "PersistedModel",
+  "strict": false,
+  "idInjection": false,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "recipient": {
+      "type": "string"
+    },
+    "totaldoeshare": {
+      "type": "string"
+    },
+    "fundingyear": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string",
+      "required": false
+    },
+    "location": {
+      "type": "string"
+    },
+    "coordinates": {
+      "type": [
+        "number"
+      ]
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": []
+}
