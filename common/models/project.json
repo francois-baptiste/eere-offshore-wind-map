@@ -30,7 +30,11 @@
     "coordinates": {
       "type": [
         "number"
-      ]
+      ],
+     "category": {
+      "type": "string",
+      "required": true
+     }
     }
   },
   "validations": [],
