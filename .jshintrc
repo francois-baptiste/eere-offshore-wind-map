@@ -1,4 +1,5 @@
 {
+  "asi":true,
   "node": true,
   "esnext": true,
   "bitwise": true,
@@ -8,10 +9,11 @@
   "immed": true,
   "indent": 2,
   "latedef": "nofunc",
+  "laxcomma":true,
   "newcap": true,
   "nonew": true,
   "noarg": true,
-  "quotmark": "single",
+  "quotmark": false,
   "regexp": true,
   "undef": true,
   "unused": false,

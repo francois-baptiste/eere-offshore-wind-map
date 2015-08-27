@@ -38,9 +38,11 @@
 
 <script>
 (function(){
-    L.mapbox.accessToken = 'pk.eyJ1IjoibnJlbCIsImEiOiJNOTcxYUhZIn0.Jc7TB_G2VQYs9e0S2laKcw';
+  'use strict'
 
+    L.mapbox.accessToken = 'pk.eyJ1IjoibnJlbCIsImEiOiJNOTcxYUhZIn0.Jc7TB_G2VQYs9e0S2laKcw'
 
+/*
     var geojson = {
         "type": "FeatureCollection",
         "features": [{
@@ -75,24 +77,24 @@
             "id": "0e618c9a8a408f5c40d0e2c480e3a072"
         }]
     }
+*/
 
-
-    var filters = document.getElementById('filters');
+    var filters = document.getElementById('filters')
     var map = L.mapbox.map('map', 'mapbox.streets').setView([37.8, -96], 4)
-    var featureLayer = L.mapbox.featureLayer(geojson).addTo(map);
-    var features = featureLayer.getGeoJSON().features;
+    var featureLayer = L.mapbox.featureLayer(geojson).addTo(map)
+    var features = featureLayer.getGeoJSON().features
 
 
 
     //map.featureLayer.on('ready', function() {
 
-    var typesObj = {},
-        types = [],
-        checkboxes = [];
+    var typesObj = {}
+      , types = []
+      , checkboxes = []
 
 
     features.forEach(function(feature) {
-        typesObj[feature.properties['marker-color']] = true;
+        typesObj[feature.properties['marker-color']] = true
     })
 
 
@@ -105,23 +107,25 @@
      *
      */
     var buildUI = function() {
-        var iten, checkbox, label;
+        var item
+          , checkbox
+          , label
 
         for (var i = 0; i < types.length; i++) {
             // Create an an input checkbox and label inside.
-            item = filters.appendChild(document.createElement('div'));
-            checkbox = item.appendChild(document.createElement('input'));
-            label = item.appendChild(document.createElement('label'));
+            item = filters.appendChild(document.createElement('div'))
+            checkbox = item.appendChild(document.createElement('input'))
+            label = item.appendChild(document.createElement('label'))
 
-            checkbox.type = 'checkbox';
-            checkbox.id = types[i];
-            checkbox.checked = true;
+            checkbox.type = 'checkbox'
+            checkbox.id = types[i]
+            checkbox.checked = true
 
-            label.innerHTML = types[i];
-            label.setAttribute('for', types[i]);
+            label.innerHTML = types[i]
+            label.setAttribute('for', types[i])
 
-            checkbox.addEventListener('change', update);
-            checkboxes.push(checkbox);
+            checkbox.addEventListener('change', update)
+            checkboxes.push(checkbox)
         }
     }
 
@@ -131,15 +135,15 @@
      *
      */
     var update = function() {
-        var enabled = {};
+        var enabled = {}
         // Run through each checkbox and record whether it is checked. If it is,
         // add it to the object of types to display, otherwise do not.
         for (var i = 0; i < checkboxes.length; i++) {
-            if (checkboxes[i].checked) enabled[checkboxes[i].id] = true;
+            if (checkboxes[i].checked) enabled[checkboxes[i].id] = true
         }
         //map.featureLayer.setFilter(function(feature) {
         featureLayer.setFilter(function(feature) {
-            return (feature.properties['marker-color'] in enabled);
+            return (feature.properties['marker-color'] in enabled)
         });
     }
 
