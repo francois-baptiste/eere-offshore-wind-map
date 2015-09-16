@@ -7,28 +7,31 @@
     <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
     <script src='https://api.mapbox.com/mapbox.js/v2.2.1/mapbox.js'></script>
     <link href='https://api.mapbox.com/mapbox.js/v2.2.1/mapbox.css' rel='stylesheet' />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/handlebars.js/3.0.3/handlebars.min.js"></script>
+
     <style>
-    body {
-        margin: 0;
-        padding: 0;
-    }
+      body {
+          margin: 0;
+          padding: 0;
+      }
 
-    #map {
-        position: absolute;
-        top: 0;
-        bottom: 0;
-        width: 100%;
-    }
+      #map {
+          position: absolute;
+          top: 0;
+          bottom: 0;
+          width: 100%;
+      }
 
-    .filter-ui {
-        background: #fff;
-        position: absolute;
-        top: 10px;
-        right: 10px;
-        z-index: 100;
-        padding: 10px;
-        border-radius: 3px;
-    }
+      .filter-ui {
+          background: #fff;
+          position: absolute;
+          top: 10px;
+          right: 10px;
+          z-index: 100;
+          padding: 10px;
+          border-radius: 3px;
+      }
     </style>
 </head>
 
@@ -40,117 +43,203 @@
 (function(){
   'use strict'
 
-    L.mapbox.accessToken = 'pk.eyJ1IjoibnJlbCIsImEiOiJNOTcxYUhZIn0.Jc7TB_G2VQYs9e0S2laKcw'
-
-/*
-    var geojson = {
-        "type": "FeatureCollection",
-        "features": [{
-            "type": "Feature",
-            "properties": {
-                "id": "marker-id0a3g6j0",
-                "title": "<h3 style=\"color:#006666;\">Integrated Optimization and Cost of Energy Analysis of an Innovative Offshore Wind Plan for the Virginia Outer Continental Shelf</h3>",
-                "description": "Recipient: <strong>Dominion (operated by Virginia Electric and Power Company)</strong><br>\nLocation: <strong>Richmond, VA</strong><br>\nTotal DOE Share: <strong>$350,000</strong><br>\nFunding year: <strong>2011</strong><br>\nDominion, an electric and natural gas utility, is analyzing the performance and cost-of-energy estimates of a hypothetical 600 megawatt offshore wind project for a variety of sites on the U.S. Atlantic coastline in water depths up to 60 meters.",
-                "marker-size": "medium",
-                "marker-color": "#006666",
-                "marker-symbol": ""
-            },
-            "geometry": {
-                "coordinates": [-77.55249, 37.548932],
-                "type": "Point"
-            },
-            "id": "0610583ae9f20662598b8d69ae0a72c7"
-        }, {
-            "type": "Feature",
-            "properties": {
-                "id": "marker-icnjraec0",
-                "title": "<h3 style=\"color:#999900\">National Offshore Wind Energy Grid Interconnection Study</h3>",
-                "description": "Recipient: <strong>ABB, Inc.</strong><br>\nLocation: <strong>Raleigh, NC</strong><br>\nTotal DOE Share: $900,000<br>\nFunding year: 2011<br>\nDescription: ABB is assessing the likely impact of offshore wind development in the various regions of the U.S. from the electric utility perspective. This work includes developing energy production profiles, performing an initial integration analysis, and evaluating the applicability of traditional integration study methods and potential energy collection and delivery technologies.",
-                "marker-size": "medium",
-                "marker-color": "#f1f075",
-                "marker-symbol": ""
-            },
-            "geometry": {
-                "coordinates": [-78.640136, 35.78217],
-                "type": "Point"
-            },
-            "id": "0e618c9a8a408f5c40d0e2c480e3a072"
-        }]
+    var mapConfig = {
+        lon: 37.8
+      , lat: -96
+      , zoom: 4
+      , tiles: 'nrel.n9ppd17j' // street tiles
+      , token: 'pk.eyJ1IjoibnJlbCIsImEiOiJNOTcxYUhZIn0.Jc7TB_G2VQYs9e0S2laKcw'
+      , api: 'http://developer.nrel.gov/api/offshore-wind/projects'
+      , qstring: '?api_key=DYnTthy8vNfPhyEZAufN6zALLbc7E7XoQqfvWtji&format=JSON'
     }
-*/
 
-    var filters = document.getElementById('filters')
-    var map = L.mapbox.map('map', 'mapbox.streets').setView([37.8, -96], 4)
-    var featureLayer = L.mapbox.featureLayer(geojson).addTo(map)
-    var features = featureLayer.getGeoJSON().features
+    L.mapbox.accessToken = mapConfig.token
 
+    var map = L.mapbox.map('map', mapConfig.tiles)
 
-
-    //map.featureLayer.on('ready', function() {
-
-    var typesObj = {}
-      , types = []
-      , checkboxes = []
-
-
-    features.forEach(function(feature) {
-        typesObj[feature.properties['marker-color']] = true
-    })
-
-
-    for (var k in typesObj) types.push(k);
-
-
-    /**
-     *
-     * Build checkboxes
-     *
-     */
-    var buildUI = function() {
-        var item
-          , checkbox
-          , label
-
-        for (var i = 0; i < types.length; i++) {
-            // Create an an input checkbox and label inside.
-            item = filters.appendChild(document.createElement('div'))
-            checkbox = item.appendChild(document.createElement('input'))
-            label = item.appendChild(document.createElement('label'))
-
-            checkbox.type = 'checkbox'
-            checkbox.id = types[i]
-            checkbox.checked = true
-
-            label.innerHTML = types[i]
-            label.setAttribute('for', types[i])
-
-            checkbox.addEventListener('change', update)
-            checkboxes.push(checkbox)
-        }
-    }
+    map.setView(
+        [mapConfig.lon, mapConfig.lat ]
+      , mapConfig.zoom
+    )
 
     /**
      *
      * Event handler for checkbox clicks
      *
      */
-    var update = function() {
+    var update = function(checkboxes, featureLayer) {
+
         var enabled = {}
-        // Run through each checkbox and record whether it is checked. If it is,
-        // add it to the object of types to display, otherwise do not.
-        for (var i = 0; i < checkboxes.length; i++) {
-            if (checkboxes[i].checked) enabled[checkboxes[i].id] = true
-        }
-        //map.featureLayer.setFilter(function(feature) {
-        featureLayer.setFilter(function(feature) {
-            return (feature.properties['marker-color'] in enabled)
-        });
+
+        // Run through each checkbox and record whether it's checked.
+        // If it is, add it to the object of types to display.
+        checkboxes.forEach( function( checkbox ){
+          if ( checkbox.checked ) {
+            enabled[ checkbox.id ] = true
+          }
+        })
+
+        featureLayer.setFilter( function(feature) {
+            return ( feature.properties.category in enabled )
+        })
     }
 
-    buildUI()
-        //}); // ready
+    /**
+     *
+     * Build checkbox UI elements
+     *
+     */
+    var buildUI = function(checkboxes, types, featureLayer) {
+        var item
+          , checkbox
+          , label
+          , filters
+
+        filters = document.getElementById( 'filters' )
+
+        types.forEach( function( type ) {
+
+           // Create an an input checkbox and label inside.
+            item     = filters.appendChild(document.createElement('div'))
+            checkbox = item.appendChild(document.createElement('input'))
+            label    = item.appendChild(document.createElement('label'))
+
+            checkbox.type = 'checkbox'
+            checkbox.id = type
+            checkbox.checked = true
+
+            label.innerHTML = type
+            label.setAttribute('for', type)
+
+            checkbox.addEventListener( 'change', function(){
+              update( checkboxes, featureLayer )
+            })
+            checkboxes.push(checkbox)
+
+        })
+    }
+
+
+    /**
+     *
+     *  Transform the JSON data from our API into GeoJSON
+     *  @param {object} jsondata
+     *  @returns {object} geojson featurecollection
+     *
+     */
+    var toGeoJSON = function( jsondata ){
+
+        var geojson
+          , geojsonfeature
+          , features
+
+        // outer template for GeoJSON
+        geojson = {
+            "type": "FeatureCollection",
+            "features": []
+        }
+
+        // inner feature template for GeoJSON
+        geojsonfeature = {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        }
+
+        // features = []
+
+        // Construct our GeoJSON object
+        // if ( Array.isArray( jsondata ) ) {
+        //     features = jsondata.map( function( json, idx ){
+
+        //         var newfeature = JSON.parse( JSON.stringify( geojsonfeature ) )
+
+        //         newfeature.geometry.coordinates = json.coordinates;
+        //         newfeature.properties = json
+
+        //         return newfeature
+        //     })
+        // }
+
+        //geojson.features = features
+        geojson.features = jsondata
+
+        return geojson
+    }
+
+    /**
+     * Helper function to set marker popup content
+     * @param {object} e event object
+     */
+    var setPopupContent = function(e) {
+      var markerprops = e.layer.feature.properties
+
+      var content = '' +
+        '<h3>'+ markerprops.title +'</h3>' +
+        '<p>' +
+        'Recipient: <b>' + markerprops.recipient +'</b><br>' +
+        'Location: <b>' + markerprops.location +'</b><br>' +
+        'Total DOE Share: <b>' + markerprops.totaldoeshare +'</b><br>' +
+        'Funding year: <b>' + markerprops.fundingyear +'</b><br>' +
+        'Description: '+markerprops.description +'</b><br>' +
+        '</p>'
+
+        e.layer.bindPopup(content)
+    }
+
+    // todo: convert to $.ajax and handle params better
+    var dfd = $.getJSON( mapConfig.api + mapConfig.qstring)
+
+
+    dfd.done( function( rawjson ){
+
+      var geojson
+        , featureLayer
+        , typesObj = {}
+        , types = []
+        , checkboxes = []
+
+      geojson = toGeoJSON( rawjson )
+
+      featureLayer = L.mapbox.featureLayer()
+
+      featureLayer
+        .addTo(map)
+        .on( 'layeradd', setPopupContent)
+        .setGeoJSON(geojson)
+
+      geojson.features.forEach( function(feature) {
+          typesObj[ feature.properties.category ] = true
+      })
+
+
+      for (var k in typesObj) {
+        types.push(k)
+      }
+
+      buildUI(checkboxes, types, featureLayer)
+
+    })
 })();
 </script>
-</body>
 
+<!-- HBS Templates -->
+<!--
+<script id="popup-template" type="text/x-handlebars-template">
+    {{#each project}}
+    <h3>{{title}}</h3>
+    <p>
+      Recipient: <b>{{recipient}}</b><br>
+      Location: <b>{{location}}</b><br>
+      Total DOE Share: <b>{{totaldoeshare}}</b><br>
+      Funding year: <b>{{fundingyear}}</b><br>
+      Description: {{description}}</b><br>
+    </p>
+    {{/each}}
+</script>
+-->
+
+</body>
 </html>
