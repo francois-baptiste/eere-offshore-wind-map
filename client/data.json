@@ -1,1364 +1,1451 @@
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-id0a3g6j0",
-            "title": "<h3 style=\"color:#E37222;\">Integrated Optimization and Cost of Energy Analysis of an Innovative Offshore Wind Plan for the Virginia Outer Continental Shelf</h3>",
-            "description": "Dominion, an electric and natural gas utility, is analyzing the performance and cost-of-energy estimates of a hypothetical 600 megawatt offshore wind project for a variety of sites on the U.S. Atlantic coastline in water depths up to 60 meters.",
-            "recipient":"Dominion (operated by Virginia Electric and Power Company)",
-            "totaldoeshare":"$350,000",
-            "fundingyear":"2011",
-            "location":"Richmond, VA",
-            "marker-size": "medium",
-            "category":"Technology Development",
-            "marker-color": "#E37222",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-77.55249, 37.548932]
-        },
-        "id": "0610583ae9f20662598b8d69ae0a72c7"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-icnjraec0",
-            "title": "<h3>National Offshore Wind Energy Grid Interconnection Study</h3>",
-            "description": "ABB is assessing the likely impact of offshore wind development in the various regions of the U.S. from the electric utility perspective. This work includes developing energy production profiles, performing an initial integration analysis, and evaluating the applicability of traditional integration study methods and potential energy collection and delivery technologies.",
-            "recipient":"</strong>",
-            "totaldoeshare":"$900,000",
-            "fundingyear":"2011",
-            "location":"Raleigh, NC",
-            "marker-size": "medium",
-            "category":"Market Acceleration and Deployment",
-            "marker-color": "#FECB00",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-78.640136, 35.78217]
-        },
-        "id": "0e618c9a8a408f5c40d0e2c480e3a072"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-ici25bga5",
-            "title": "<h2 style=\"color:#E37222\">U.S.-Sourced, Next Generation Drivetrain for Land-Based and Offshore Wind Turbines</h2>",
-            "description": "Description: Thational Renewable Energy Laboratory next generation drivetrain project is optimizing and testing a hybrid design that combines the advantages of geared and direct-drive concepts through an improved single-stage gearbox and a medium speed permanent magnet generator that reduces the need for rare earth materials. The technology developed will be scalable to 10 megawatts.",
-            "recipient":"National Renewable Energy Laboratory (operated by Alliance for Sustainable Energy, LLC)",
-            "totaldoeshare":"$1,804,500",
-            "fundingyear":"2011",
-            "location":"Golden, CO",
-            "marker-size": "medium",
-            "category":"Technology Development",
-            "marker-color": "#E37222",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-105.184564, 39.750489]
-        },
-        "id": "0fde30b1d67adc3e18768bf66d2916f6"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-icz8adukc",
-            "title": "<h3 style=\"color:#1F82BB;\">Lake Erie Offshore Wind Project Icebreaker™</h3>",
-            "description": "rong>Funding year: </strong>2012</p>\n<p>Lake Erie Energy Development Corporation plans to install nine 3-megawatt direct-drive wind turbines on innovative ‘ice breaker’ monopile foundations that are designed to reduce ice loading seven miles off the coast of Cleveland in Lake Erie.",
-            "recipient":"Lake Erie Energy Development Corporation",
-            "totaldoeshare":"$3,705,333",
-            "fundingyear":"",
-            "location":"OH",
-            "marker-size": "medium",
-            "marker-color": "1F82BB",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-81.452636, 41.236511]
-        },
-        "id": "1095fabddbf59edcdf32a6ae92a0ee05"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-icz9hzm75",
-            "title": "<h3>Investigating Marine Boundary Layer Parameterizations by Combining Observations with Models via State Estimation</h3>",
-            "description": "The National Center for Atmospheric Research is examining the layer of the atmosphere that has direct contact with the ocean to deter- mine how temperature changes in the atmosphere can affect the ocean, and how temperature changes in the ocean can affect atmospheric conditions impacting wind energy production and facility design parameters.",
-            "recipient":"National Center for Atmospheric Research",
-            "totaldoeshare":"$702,000",
-            "fundingyear":"2011",
-            "location":"Boulder, CO",
-            "marker-size": "medium",
-            "category":"Market Acceleration and Deployment",
-            "marker-color": "#FECB00",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-105.194091, 40.014994]
-        },
-        "id": "158fb0b9cd883fca292f1c55973712da"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-icz70j5k2",
-            "title": "<h3 style=\"color:#E37222\">Simulator for Offshore Wind Farm Applications (SOWFA)</h3>",
-            "description": "The National Renewable Energy Laboratory team is developing and validating the first design tool to fully simulate the entire multi-scale, multi-physics system of offshore wind plants under a single software framework. The Simulator for Offshore Wind Farm Applications will be a freely available, open-source, computer-aided engineering tool.",
-            "recipient":"National Renewable Energy Laboratory (operated by Alliance for Sustainable Energy, LLC)",
-            "totaldoeshare":"$1,200,000",
-            "fundingyear":"2011",
-            "location":"Golden, CO",
-            "marker-size": "medium",
-            "marker-color": "E37222",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-105.192375, 39.75392]
-        },
-        "id": "188746fbbce9583cf91b842af796cbfe"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-icz8yhvq0",
-            "title": "<h3 style=\"color:#1F82BB;\">Fishermen's Atlantic City Windfarm</h3>",
-            "description": "Fishermen’s plans to install up to 6 turbines in state waters three miles off the coast of Atlantic City, New Jersey. The project will include extensive data gathering and analysis by the Energy Department’s National Renewable Energy Laboratory. The project will advance the Body of Knowledge concerning wind farm turbine density, construction operations around marine mammals, and operations constraints during periods of low visibility.",
-            "recipient":"Fishermen's Atlantic City Windfarm, LLC",
-            "totaldoeshare":"$46,666,666",
-            "fundingyear":"2012",
-            "location":"NJ",
-            "marker-size": "medium",
-            "category":"Advanced Technology Demonstration",
-            "marker-color": "#1F82BB",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-74.421386, 40.304665]
-        },
-        "id": "1d9de7e91bc8099f4acc1e49c3fa9ecc"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-icz55bi29",
-            "title": "<h3>Mid-Atlantic Wind - Overcoming the Challenges - Defining and Overcoming the Technical, Economic, and Legal Issues</h3>",
-            "description": "Sustainable Energy Advantage studied and documented the technical, economic, and policy issues that have been impeding the development of wind energy in the Mid-Atlantic region and worked to identify mechanisms for overcoming or mitigating those barriers. The results of the study are documented in the report, <a href=\"http://www.perihq.com/documents/Mid- AtlanticWind%20Rpt.%2031.5.12_FINAL%20SUBMISSION.pdf\">Mid-Atlantic Wind - Overcoming the Challenges</a>.",
-            "recipient":"Sustainable Energy Advantage, LLC",
-            "totaldoeshare":"$100,000",
-            "fundingyear":"2009",
-            "location":"Framingham, MA",
-            "marker-size": "medium",
-            "marker-color": "FECB00",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-71.405639, 42.2895]
-        },
-        "id": "20eb370fdcb742a9ad358e7f3adfbc0a"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-icz8mbore",
-            "title": "<h3 style=\"color:#1F82BB;\">New England Aqua Ventus I</h3>",
-            "description": "The University of Maine plans to install a pilot floating offshore wind farm with two 6-megawatt direct-drive turbines on concrete semi- submersible foundations at a test site off Monhegan Island, Maine. The pre-stressed concrete substructures proposed in this project could offer significant cost reduction opportunities over steel if manufactured at a large scale.",
-            "recipient":"University of Maine",
-            "totaldoeshare":"$3,801,879",
-            "fundingyear":"2012",
-            "location":"ME",
-            "marker-size": "medium",
-            "category":"Advanced Technology Demonstration",
-            "marker-color": "#1F82BB",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-68.713989, 44.882147]
-        },
-        "id": "21e11e03d89ce6b6b7c69295f72d34a7"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-id0agq4v3",
-            "title": "<h3 style=\"color:#E37222;\">Hurricane Resilient Wind Plant Concept Study</h3>",
-            "description": "The National Renewable Energy team is designing and analyzing a 500 megawatt wind plant comprised of 10 megawatt wind turbines, deployed in 25-meter water depths in the western Gulf of Mexico. New technology will be evaluated to overcome the challenges posed by hurricanes while still achieving a low cost of energy.",
-            "recipient":"National Renewable Energy Laboratory (operated by Alliance for Sustainable Energy, LLC)",
-            "totaldoeshare":"$500,000",
-            "fundingyear":"2011",
-            "location":"Golden, CO",
-            "marker-size": "medium",
-            "marker-color": "E37222",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-105.187225, 39.746662]
-        },
-        "id": "256b607026c4ff9e31b0af99c9398e68"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-iczaofqp1",
-            "title": "<h3>Assessment of Offshore Wind Farm Effects on Sea Surface, Subsurface, and Airborne Electronic Systems</h3>",
-            "description": "The University of Texas-Austin assessed the potential of offshore wind farms to cause electromagnetic or acoustic interference of electronic detection, communication, and navigation equipment operating in the marine environment. The project interacted closely with commercial and governmental stakeholders to identify concerns and recommending mitigation methods when required.",
-            "recipient":"University of Texas-Austin",
-            "totaldoeshare":"$500,000",
-            "fundingyear":"2011",
-            "location":"Austin, TX",
-            "marker-size": "medium",
-            "category":"Market Acceleration and Deployment",
-            "marker-color": "#FECB00",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-97.163085, 30.315987]
-        },
-        "id": "2655571f9572142f67ed1b3ef5490487"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-iczalm6a0",
-            "title": "<h3>Deepwater Offshore Bat and Avian Monitoring Program</h3>",
-            "description": "Stantec Consulting Services has collected critical information on offshore bird and bat activity. The project will result in more advanced equipment and methodologies for remote offshore bird and bat migration data collection and monitoring systems.",
-            "recipient":"Stantec Consulting Services, Inc.",
-            "totaldoeshare":"$599,501",
-            "fundingyear":"2011",
-            "location":"Topsham, ME",
-            "marker-size": "medium",
-            "category":"Market Acceleration and Deployment",
-            "marker-color": "#FECB00",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-69.976043, 43.931775]
-        },
-        "id": "2aa905697b18c1e69abb2b36ec535a06"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-icz5islfc",
-            "title": "<h3>Offshore Wind Energy Systems Engineering Course Development</h3>",
-            "description": "Recipient: <strong>University of Massachusetts</strong><br>\nLocation: <strong>Amherst, MA</strong><br>\nTotal DOE Share: <strong>$252,687</strong><br>\nFunding year: <strong>2009</strong></p>\n<p>The University of Massachusetts developed a formal course entitled “Offshore Wind Energy Systems Engineering” and will disseminate the course content and materials for use across the United States. The University plans to make continued updates to the Web-based course material in the future.",
-            "recipient":"",
-            "totaldoeshare":"",
-            "fundingyear":"",
-            "location":"",
-            "marker-size": "medium",
-            "category":"Market Acceleration and Deployment",
-            "marker-color": "#FECB00",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-72.526245, 42.399122]
-        },
-        "id": "2cd47d6488eae4ca4fc000e28297f4f3"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-icz72waz3",
-            "title": "<h3 style=\"color:#E37222\">Analysis of Installation, Operation, and Maintenance Strategies to Reduce Levelized Cost of Energy</h3>",
-            "description": "The National Renewable Energy Laboratory is combining its offshore wind cost modeling capabilities and those of the Energy research Centre of the Netherlands, along with the operating experience of an expert industry panel, to conduct an assessment of optimized installation, operation, and maintenance strategies and technologies to evaluate their relative costs and benefits for offshore wind projects in U.S. waters.",
-            "recipient":"National Renewable Energy Laboratory (operated by Alliance for Sustainable Energy, LLC)",
-            "totaldoeshare":"$200,000",
-            "fundingyear":"2011",
-            "location":"Golden, CO",
-            "marker-size": "medium",
-            "category":"Technology Development",
-            "marker-color": "#E37222",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-105.197439, 39.75359]
-        },
-        "id": "37f59a101c078fa237c73b9b44da53d0"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-id0a8oyn1",
-            "title": "<h3 style=\"color:#E37222;\">Shallow Water Offshore Wind System Optimization for the Great Lakes</h3>",
-            "description": "Freshwater Wind is creating a computational model to study how existing wind turbine systems could be optimized for shallow water conditions found in the Great Lakes. The project analysis included a detailed study of different foundations and installation concepts for the soil composition and shallow waters, a larger rotor for the low wind speed, an optimized layout leveraging cable costs with Annual Energy Production, and improved operating and maintenance strategies.",
-            "recipient":"Freshwater Wind, LLC",
-            "totaldoeshare":"$500,000",
-            "fundingyear":"2011",
-            "location":"Youngstown, OH",
-            "marker-size": "medium",
-            "category":"Technology Development",
-            "marker-color": "#E37222",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-80.650634, 41.10419]
-        },
-        "id": "4f8568d6da7bc8db370386b188a63f5f"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-icz95g7z2",
-            "title": "<h3>National Offshore Wind Energy Resource and Design Condition Data Campaign</h3>",
-            "description": "AWS Truepower is establishing a Web-based national met-ocean wind energy resource and design conditions data inventory. The project will establish data needs, identify existing sources of relevant data, and carry out a gaps analysis to establish long term requirements for new data to be gathered and disseminated through national public-private collaboration initiatives.",
-            "recipient":"AWS Truepower, LLC",
-            "totaldoeshare":"$900,000",
-            "fundingyear":"2011",
-            "location":"Albany, NY",
-            "marker-size": "medium",
-            "category":"Market Acceleration and Deployment",
-            "marker-color": "#FECB00",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-73.696289, 42.674358]
-        },
-        "id": "5fb3f2f51e4bddb46101d3c1cd7926b6"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-icz9bmd63",
-            "title": "<h3>An Integrated Approach to Offshore Wind Energy Assessment: Great Lakes 3D Wind Experiment</h3>",
-            "description": "Indiana University, in partnership with Case Western University, Clarkson University, and Arizona State University, is conducting a project to integrate wind data from remote sensing, aerial and satellite measurements, and meteorological towers in producing a high resolution wind characterization of Lake Erie. The project will also analyze the effectiveness of various measurement instruments and develop best practices for each type.",
-            "recipient":"Indiana University Trustees",
-            "totaldoeshare":"$700,000",
-            "fundingyear":"2011",
-            "location":"Multi-state",
-            "marker-size": "medium",
-            "marker-color": "FECB00",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-86.550292, 39.206718]
-        },
-        "id": "62356d355f0d777e42a93edc6e2b8be0"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-icz9fmcg4",
-            "title": "<h3>Impacts of Stratification and Non-Equilibrium Winds and Waves on Hub-Height Winds</h3>",
-            "description": "The National Center for Atmospheric Research is evaluating surface level to hub-height level wind speed extrapolations and methods in an effort to evaluate and improve the siting and design of turbines, as well as the accuracy of wind energy predictions.",
-            "recipient":"National Center for Atmospheric Research",
-            "totaldoeshare":"$702,000",
-            "fundingyear":"2011",
-            "location":"Boulder, CO",
-            "marker-size": "medium",
-            "category":"Market Acceleration and Deployment",
-            "marker-color": "#FECB00",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-105.265502, 39.935012]
-        },
-        "id": "66afbf6a5bbed6fe8b6b54181a728efb"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-ici1msy22",
-            "title": "<h2 style=\"color:#E37222\">Novel, Low-Cost, High Reliability Wind Turbine Drivetrain</h2>",
-            "description": "ipper Windpower developed a megawatt-scale, low-cost drivetrain design based on a chain-drive concept. The project analyzed potential improvements in the areas of cost, serviceability, and compliance to rotor loads.",
-            "recipient":"Clipper Windpower",
-            "totaldoeshare":"$468,450",
-            "fundingyear":"20",
-            "location":"Cedar Rapids, IA",
-            "marker-size": "medium",
-            "category":"Technology Development",
-            "marker-color": "#E37222",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-91.647949, 42.016651]
-        },
-        "id": "69d3b765589e500f00db9f17563b6878"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-icz5als9a",
-            "title": "<h3>Hull Municipal Light Plant Offshore Wind Project</h3>",
-            "description": "The Town of Hull on the east coast of Massachusetts is conducting a multi-phase offshore wind project that consists of organizing events and planning for the development of an offshore wind R&D facility. The town conducted a workshop to analyze the concept of designing and constructing an offshore wind testing platform and wind energy generation facility. The project will ultimately develop a plan for the design, construction, operation and maintenance of an offshore wind testing platform and offshore wind energy generation facility.",
-            "recipient":"Town of Hull",
-            "totaldoeshare":"$210,298",
-            "fundingyear":"2009",
-            "location":"Hull, MA",
-            "marker-size": "medium",
-            "marker-color": "FECB00",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-70.906448, 42.30626]
-        },
-        "id": "6ba1e4d70ca933adc13a3b9feedeffe6"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-icz78m7a4",
-            "title": "<h3 style=\"color:#E37222\">Development of Mooring-Anchor Program for Coupling with FAST (Fatigue, Aerodynamics, Structures, and Turbulence)</h3>",
-            "description": "The Texas Engineering Experiment Station at Texas A&M built on existing computer models to simulate mooring dynamics of floating offshore wind turbine structures. The project’s model takes into account a variety of interactions between platform anchors and the seabed.",
-            "recipient":"Texas Engineering Experiment Station at Texas A&M",
-            "totaldoeshare":"$400,000",
-            "fundingyear":"2011",
-            "location":"College Station, TX",
-            "marker-size": "medium",
-            "marker-color": "E37222",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-96.329498, 30.65209]
-        },
-        "id": "7564c2344d9d2788443799b62a8185b4"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-icz8q5jnf",
-            "title": "<h3 style=\"color:#1F82BB;\">Virginia Offshore Wind Technology Advancement Project: Demonstration of an Innovative Offshore Wind System Off the Coast of Virginia</h3>",
-            "description": "Dominion, an electric and natural gas utility, will design, develop, and install two 6-megawatt direct-drive turbines 26 nautical miles off the coast of Virginia Beach on inward battered guide structures that offer the strength of traditional jacket or space-frame structures but use substantially less steel.",
-            "recipient":"Dominion (operated by Virginia Electric and Power Company)",
-            "totaldoeshare":"$46,666,667",
-            "fundingyear":"2012",
-            "location":"VA",
-            "marker-size": "medium",
-            "category":"Advanced Technology Demonstration",
-            "marker-color": "#1F82BB",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-78.706054, 37.874853]
-        },
-        "id": "7802a9b03abfc1a23a4dd6fce9d8daec"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-iczahgexc",
-            "title": "<h3>A Synchronized Sensor Array for Remote Monitoring of Avian and Bat Interactions with Offshore Renewable Energy Facilities</h3>",
-            "description": "Oregon State University is monitoring avian and bat interactions with offshore wind turbines using a fully integrated sensor array monitoring system with on-board custom designed data post-processing and statistical-based software.",
-            "recipient":"Oregon State University",
-            "totaldoeshare":"$600,000",
-            "fundingyear":"2011",
-            "location":"Corvallis, OR",
-            "marker-size": "medium",
-            "category":"Market Acceleration and Deployment",
-            "marker-color": "#FECB00",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-123.269348, 44.584599]
-        },
-        "id": "78dbee8cabfe8d58bf42bc8f376bc451"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-ici1g32e1",
-            "title": "<h2 style=\"color:#E37222\">Boulder Wind Power Advanced Gearless Drivetrain</h2>",
-            "description": "Boulder Wind Power's advanced gearless drivetrain project developed a design concept for an innovative permanent magnet-based direct-drive generator for improved performance and reliability of a large utility-scale turbines up to 10 megawatts for land-based and offshore applications.",
-            "recipient":"Boulder Wind Power (operated by Core Wind Power, Inc.)",
-            "totaldoeshare":"$486,000",
-            "fundingyear":"2011",
-            "location":"Boulder, CO",
-            "marker-size": "medium",
-            "category":"Technology Development",
-            "marker-color": "#E37222",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-105.281982, 40.052847]
-        },
-        "id": "78f8993ce3175ebb8c6b2bca24389836"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-id0anstk0",
-            "title": "<h3 style=\"color:#E37222;\">Advanced Floating Turbine</h3>",
-            "description": "Nautica Windpower is developing a conceptual design for a deep water offshore wind farm using downwind rotors with flexible blades and lightweight floating platforms with improved access for maintenance.",
-            "recipient":"autica Windpower, LLC",
-            "totaldoeshare":"$500,000",
-            "fundingyear":"2011",
-            "location":"Olmstead Falls, OH",
-            "marker-size": "medium",
-            "marker-color": "E37222",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-81.908912, 41.377839]
-        },
-        "id": "7efddd1ca71a3c2d7497e07fbdd9d0b9"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-icz5easjb",
-            "title": "<h3>Empowering Coastal States and Utilities through Model Offshore Wind Legislation and Outreach</h3>",
-            "description": "The University of Delaware has drafted model legislation for offshore wind development and conducted workshops. The project built upon existing research and policy development for offshore wind in order to advance wind energy development to meet human health, energy security, economic development, and climate change goals in an environmentally responsible manner.",
-            "recipient":"University Of Delaware",
-            "totaldoeshare":"$99,967",
-            "fundingyear":"2009",
-            "location":"Newark, DE",
-            "marker-size": "medium",
-            "category":"Market Acceleration and Deployment",
-            "marker-color": "#FECB00",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-75.701293, 39.698734]
-        },
-        "id": "89fb59716b494d6972fadf9f89f3d33e"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-ici2dwz17",
-            "title": "<h2 style=\"color:#E37222\">Innovative Offshore Vertical-Axis Wind Turbine Rotors</h2>",
-            "description": "During this five-year project, a collaborative team consisting of members from Sandia National Laboratories, several universities, and a major U.S. wind blade manufacturer are designing, building, and testing advanced vertical-axis wind turbine rotors for deepwater offshore wind energy production on the 10-20 megawatt turbine scale.",
-            "recipient":"Sandia National Laboratories (operated by Lockheed Martin Corporation)",
-            "totaldoeshare":"$4,140,000",
-            "fundingyear":"2011",
-            "location":"Albuquerque, NM",
-            "marker-size": "medium",
-            "category":"Technology Development",
-            "marker-color": "#E37222",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-106.638793, 35.124401]
-        },
-        "id": "8a0a741bccd9e9e5f46d128b1f11c154"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-icz8iwuxd",
-            "title": "<h3 style=\"color:#1F82BB;\">Hywind Maine Floating Offshore Wind Project</h3>",
-            "description": "Statoil North America performed numerous environmental surveys in the Gulf of Maine, as well as design studies, in order to refine its proposed design, advancing the state-of-the-art in specialized floating spar buoy substructures.",
-            "recipient":"Statoil Wind U.S., LLC",
-            "totaldoeshare":"$3,425,000",
-            "fundingyear":"2012",
-            "location":"ME",
-            "marker-size": "medium",
-            "category":"Advanced Technology Demonstration",
-            "marker-color": "#1F82BB",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-67.697753, 44.637391]
-        },
-        "id": "8d4ffc72cbaf614f3a88789b01c82b39"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-id0b48z91",
-            "title": "<h3 style=\"color:#E37222;\">Massachusetts Wind Technology Testing Center</h3>",
-            "description": "The Massachusetts Clean Energy Center used project funding to establish the Wind Technology Testing Center, the nation’s first facility capable of testing wind turbine blades 90 meters in length. The Center’s testing capabilities will accelerate technical innovation in turbine and blade design and speed up deployment of longer turbine blades, which can produce more energy per turbine and help reduce the overall cost of wind energy.",
-            "recipient":"Massachusetts Clean Energy Center",
-            "totaldoeshare":"$24,752,779",
-            "fundingyear":"2009",
-            "location":"Boston, MA",
-            "marker-size": "medium",
-            "marker-color": "E37222",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-71.109008, 42.419401]
-        },
-        "id": "91c650ad368fc977c88f6e9198e01f80"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-id0asbns1",
-            "title": "<h3 style=\"color:#E37222;\">System Design Optimized for a Large-Turbine Wind Farm near Wilmington Canyon</h3>",
-            "description": "The University of Delaware is analyzing design trade-offs for offshore wind farms in 20-40 meter water depth for turbine production, deployment, and maintenance. The analysis will determine ways to maximize energy production, improve reliability, reduce and simplify operations at sea, and decrease operating and capital cost.",
-            "recipient":"University of Delaware",
-            "totaldoeshare":"$500,000",
-            "fundingyear":"2011",
-            "location":"Newark, DE",
-            "marker-size": "medium",
-            "marker-color": "E37222",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-75.751419, 39.695564]
-        },
-        "id": "92c34a83a409a1f4e4033b601684950e"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-icz9l3m46",
-            "title": "<h3>Advanced Technology for Improving the Design Basis of Offshore Wind Energy Systems</h3>",
-            "description": "Savannah River National Laboratory is developing new techniques for characterizing steep and breaking waves and resulting structural loads on monopile foundations.",
-            "recipient":"Savannah River National Laboratory (operated by Savannah River Nuclear Solutions, LLC)",
-            "totaldoeshare":"$554,845",
-            "fundingyear":"2011",
-            "location":"Aiken, SC",
-            "marker-size": "medium",
-            "category":"Market Acceleration and Deployment",
-            "marker-color": "#FECB00",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-81.727294, 33.596318]
-        },
-        "id": "97f8632bb782396bfc763b930c5878ef"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-icyvodst2",
-            "title": "<h3>Mid-Atlantic Offshore Wind Interconnection and Transmission</h3>",
-            "description": "The University of Delaware is examining potential effects of wind penetration on the Mid-Atlantic electric grid and facilitating grid operations planning by identifying necessary system upgrades and grid management strategies to ensure reliable and efficient operation of the electric system.",
-            "recipient":"University of Delaware",
-            "totaldoeshare":"$540,000",
-            "fundingyear":"2011",
-            "location":"Newark, DE",
-            "marker-size": "medium",
-            "category":"Market Acceleration and Deployment",
-            "marker-color": "#FECB00",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-75.805664, 39.69662]
-        },
-        "id": "9d20a5f2a01dffc5b64c176f141859b2"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-icyzcd0f4",
-            "title": "<h3>User Friendly Analysis Tool for Optimized Offshore Wind Ports Assessment</h3>",
-            "description": "Garrad Hassan America incorporated lessons learned from Northern European offshore wind projects to identify the port requirements necessary to meet various offshore wind industry growth scenarios in the United States. The project created a publicly available analysis  tool to enable decision-makers to perform cost-benefit assessments of potential port infrastructure investments in support of offshore wind development.",
-            "recipient":"Garrad Hassan America, Inc.",
-            "totaldoeshare":"$497,725",
-            "fundingyear":"2011",
-            "location":"San Diego, CA",
-            "marker-size": "medium",
-            "category":"Market Acceleration and Deployment",
-            "marker-color": "#FECB00",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-117.158203, 32.713355]
-        },
-        "id": "9ecf1b309e569db0c8761d8591de5dfa"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-icz5nri6d",
-            "title": "<h3 style=\"color:#E37222\">Creation of a Model for Interaction of Bottom-Fixed Wind Turbines with Surface Ice for Use with Common Simulation Codes</h3>",
-            "description": "DNV is creating a computational tool to simulate how an offshore wind turbine platform may be structurally impacted by interactions with ice on the surface of the water in regions such as the sub-Arctic or the Great Lakes. The project will lead to a design code for ice loading on the towers of offshore, bottom-mounted wind turbines that can interface with common simulation codes and is accessible to the public.",
-            "recipient":"DNV Renewables, Inc.",
-            "totaldoeshare":"$306,192",
-            "fundingyear":"2011",
-            "location":"Seattle, WA",
-            "marker-size": "medium",
-            "marker-color": "E37222",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-122.332763, 47.606163]
-        },
-        "id": "9f896a5f5517c6137bec75c65a906bc5"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-icz85405b",
-            "title": "<h3 style=\"color:#1F82BB;\">Gulf Offshore Wind (GOWind) Demonstration Project</h3>",
-            "description": "Baryonyx completed longitudinal wind resource assessments, conducted avian surveys, and designed an advanced jacket foundation using lessons learned from the oil and gas sector for the company’s planned Gulf Offshore Wind Demonstration Project off the coast of Texas",
-            "recipient":"Baryonyx Corporation",
-            "totaldoeshare":"$3,819,878",
-            "fundingyear":"2012",
-            "location":"TX",
-            "marker-size": "medium",
-            "category":"Advanced Technology Demonstration",
-            "marker-color": "#1F82BB",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-97.734375, 30.259067]
-        },
-        "id": "a8a14319b69f086beac15d89ea747710"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-iczay0s20",
-            "title": "<h3 style=\"color:#E37222;\">Pivot Offshore Wind Turbine</h3>",
-            "description": "Clear Path Energy created a conceptual design for offshore wind systems that can be deployed in water deeper than 35 meters using innovative foundation technology and installation techniques.",
-            "recipient":"Clear Path Energy, LLC",
-            "totaldoeshare":"$500,000",
-            "fundingyear":"2011",
-            "location":"Wilmington, DE",
-            "marker-size": "medium",
-            "category":"Technology Development",
-            "marker-color": "#E37222",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-75.552978, 39.772658]
-        },
-        "id": "a9e5cda51da330a0caab80f9cca0003a"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-icz00sge7",
-            "title": "<h3>U.S. Offshore Wind Market and Economic Analysis, Annual Market Assessment</h3>",
-            "description": "Navigant Consulting is issuing a comprehensive assessment of the U.S. offshore wind market each year over a three-year period. The project provides stakeholders with updated information, data analysis, and trends on technical, regulatory, financial, economic, and workforce development  drivers influencing industry growth.",
-            "recipient":"Navigant Consulting, Inc.",
-            "totaldoeshare":"$600,000",
-            "fundingyear":"2011",
-            "location":"Chicago, IL",
-            "marker-size": "medium",
-            "marker-color": "FECB00",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-87.629699, 41.783601]
-        },
-        "id": "ab86eb9240e95838ea7dde87a601c71d"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-icyzy1236",
-            "title": "<h3>Great Lakes Wind Collaborative: Best Practices to Accelerate Wind Power in the Great Lakes Region and Beyond</h3>",
-            "description": "The Great Lakes Commission, an interstate agency based in Ann Arbor, Michigan, conducted a study in support of states in the Great Lakes region to identify best practices and policies for wind development; build awareness and knowledge among all wind energy stakeholders for best practices and policies; and build capacity among states to create policies based on an assessment of the benefits of wind power projects in the Great Lakes region.",
-            "recipient":"Great Lakes Commission",
-            "totaldoeshare":"$99,730",
-            "fundingyear":"2009",
-            "location":"Ann Arbor, MI",
-            "marker-size": "medium",
-            "category":"Market Acceleration and Deployment",
-            "marker-color": "#FECB00",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-83.726806, 42.252917]
-        },
-        "id": "ab98d5769102423bec4c7acb792abed8"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-icz676g70",
-            "title": "<h3 style=\"color:#E37222\">Floating Platform Dynamics Models</h3>",
-            "description": "The National Renewable Energy Laboratory-led team is improving the hydrodynamics modeling capability of FAST, an open-source computer-aided engineering tool. The added features will improve modeling of extreme wave loads and response in severe sea states. Validation will make use of data being collected from international floating wind demonstration projects.",
-            "recipient":"National Renewable Energy Laboratory (operated by Alliance for Sustainable Energy, LLC)",
-            "totaldoeshare":"$1,500,000",
-            "fundingyear":"2011",
-            "location":"olden, CO",
-            "marker-size": "medium",
-            "marker-color": "E37222",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-105.19392, 39.750753]
-        },
-        "id": "b11f8625805edd515ab36d913595d42a"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-icyzpkpc5",
-            "title": "<h3>U.S. Wind Energy Manufacturing and Supply Chain: A Competitiveness Analysis</h3>",
-            "description": "rong>Total DOE Share:</strong> $300,000</p>\n<p>Building on their existing database of wind energy supplier capabilities, GLWN interviewed major companies involved in the offshore   global production of wind energy to identify potential resource requirements and global competitiveness as well as gaps in the supplier value stream. In addition, they collaborated with established wind industry partners, associates and National Institutes of Standards and Technology Manufacturing Extension Partnerships in the coastal states. The findings from this study will be made available on the web, and presented at workshops, key wind industry forums, and conferences.",
-            "recipient":"GLWN (Westside Industrial Retention and Expansion Network)",
-            "totaldoeshare":"",
-            "fundingyear":"",
-            "location":"OH",
-            "marker-size": "medium",
-            "marker-color": "FECB00",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-82.749023, 40.747256]
-        },
-        "id": "b340ffd360c6a0ea4cb0bbcd74113cdd"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-icz6v0k51",
-            "title": "<h3 style=\"color:#E37222\">Coupled Wind/Wave Simulation Models to Characterize Hurricane Load Cases</h3>",
-            "description": "The National Renewable Energy Laboratory (NREL)-led team is developing a Coupled Hydro-Aerodynamic Interface for Storm Environments using the fully coupled atmosphere-wave-ocean forecast model now used for hurricane research and prediction, linked to the NREL-developed FAST wind turbine simulation software. This will facilitate improved systems designs and lowered risk for offshore wind turbine systems located in extreme weather areas.",
-            "recipient":"National Renewable Energy Laboratory (operated by Alliance for Sustainable Energy, LLC)",
-            "totaldoeshare":"$400,000",
-            "fundingyear":"2011",
-            "location":"Golden, CO",
-            "marker-size": "medium",
-            "category":"Technology Development",
-            "marker-color": "#E37222",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-105.189542, 39.751215]
-        },
-        "id": "b723e3d73489ba4f92a56e8181192837"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-icz5rfiae",
-            "title": "<h3 style=\"color:#E37222\">User Friendly Analysis Tool for Optimized Offshore Wind Installation, Operation and Maintenance Strategies</h3>",
-            "description": "Garrad Hassan America identified and quantified key areas for offshore wind project installation and operations where advancements in the approach or technology may lower the cost of energy produced by offshore wind plants. The project developed a user-friendly tool that enables project developers, owners, and managers to evaluate and compare how various installation and maintenance strategies and technical approaches impact cost of energy.",
-            "recipient":"Garrad Hassan America, Inc.",
-            "totaldoeshare":"$199,100",
-            "fundingyear":"2011",
-            "location":"San Diego, CA",
-            "marker-size": "medium",
-            "category":"Technology Development",
-            "marker-color": "#E37222",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-117.246093, 32.851903]
-        },
-        "id": "b835d91f8243f46676c050430a035e39"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-ici1bjyo0",
-            "title": "<h2 style=\"color:#E37222\">Cost of Energy Reduction for Offshore Tension Leg Platform Wind Turbine Systems through Advanced Control Strategies for Energy Yield Improvement, Load Mitigation and Stabilization</h2>",
-            "description": "Alstom Power is developing an advanced control system that integrates innovative sensors on a floating wind turbine design. This control system will maximize energy production while providing technology for effective monitoring and adjustment to prevent excessive loads on the turbine that reduce power generation.",
-            "recipient":"Alstom Power, Inc.",
-            "totaldoeshare":"$4,130,55",
-            "fundingyear":"2011",
-            "location":"Richmond, VA",
-            "marker-size": "medium",
-            "category":"Technology Development",
-            "marker-color": "#E37222",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-77.426147, 37.544577]
-        },
-        "id": "ba081528631c0eb01f10957e9c1c3433"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-icz9q9lu7",
-            "title": "<h3>Field Evaluation and Validation of Remote Wind Sensing Technologies: Shore-Based and Buoy Mounted LIDAR Systems</h3>",
-            "description": "Stevens Institute of Technology is systematically evaluating the capability of scanning and vertically profiling LIDAR to accurately measure the three-dimensional wind field, in comparison to fixed meteorological towers. The project will also quantify variability in offshore winds off the coast of New Jersey.",
-            "recipient":"tevens Institute of Technology",
-            "totaldoeshare":"$702,000",
-            "fundingyear":"2011",
-            "location":"Hoboken, NJ",
-            "marker-size": "medium",
-            "category":"Market Acceleration and Deployment",
-            "marker-color": "#FECB00",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-74.031372, 40.746996]
-        },
-        "id": "bd86419632915a28c8d3dab5e6acd176"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-id0abmhi2",
-            "title": "<h3 style=\"color:#E37222;\">Innovative Offshore Wind Plant System Design Studies</h3>",
-            "description": "Glosten Associates is developing the design of an offshore wind farm in water depths exceeding 60 meters using floating offshore wind tension leg platforms. This project will create tools for optimizing floating offshore wind TLPs, perform testing on new anchor tendons, and develop the preliminary design for a TLP installation vessel.",
-            "recipient":"Glosten Associates, Inc.",
-            "totaldoeshare":"$401,941",
-            "fundingyear":"2011",
-            "location":"Seattle, WA",
-            "marker-size": "medium",
-            "category":"Technology Development",
-            "marker-color": "#E37222",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-122.20642, 47.606163]
-        },
-        "id": "c06fba8efc132e0dfbb534918883936b"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-ici2ph339",
-            "title": "<h2 style=\"color:#E37222\">High-Efficiency Structural Flowthrough Rotor with Active Flap Control</h2>",
-            "description": "Zimitar is creating a two-bladed wind turbine design that incorporates active aerodynamic controls. This project will result in rotors that are lighter than conventional designs, which will increase energy capture and reduce the cost of energy.",
-            "recipient":"Zimitar, Inc.",
-            "totaldoeshare":"$3,998,763",
-            "fundingyear":"2011",
-            "location":"San Francisco, CA",
-            "marker-size": "medium",
-            "category":"Technology Development",
-            "marker-color": "#E37222",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-122.420654, 37.788081]
-        },
-        "id": "c689b7c88c4d1a1edd9afefd706fef8f"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-icz9uum98",
-            "title": "<h3>Improving Atmospheric Models for Offshore Wind Resource Mapping and Prediction Using LIDAR, Aircraft, and In-Ocean Observations</h3>",
-            "description": "State University of New York is verifying instrumentation and developing an improved understanding of modeling and boundary layer physics through intensive data collection around the Cape Wind site. The improved modeling will be applied to constructing more accurate wind resource maps for the East Coast of the United States.",
-            "recipient":"The Research Foundation of the State University of New York (led by Stony Brook University)",
-            "totaldoeshare":"$675,219",
-            "fundingyear":"2011",
-            "location":"Stony Brook, NY",
-            "marker-size": "medium",
-            "category":"Market Acceleration and Deployment",
-            "marker-color": "#FECB00",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-73.140277, 40.928688]
-        },
-        "id": "c784f45b11b1e1cf499bef8337b3e32c"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-icyvg00s0",
-            "title": "<h3>Great Lakes Offshore Wind: Utility and Regional Integration Study</h3>",
-            "description": "Case Western University is evaluating potential impacts of offshore wind on the electric grid in the Great Lakes region and determining requirements for interconnection, control systems, and the application of additional support for different transmission systems. The project is providing regional stakeholders with the knowledge base and capabilities to develop state-of-the-art, long-range strategies for mitigating the impacts of offshore wind interconnection, as well as realizing the economic cost reductions and benefits that can be achieved through implementing these strategies. </",
-            "recipient":"Case Western Reserve University",
-            "totaldoeshare":"$540,000",
-            "fundingyear":"2011",
-            "location":"Cleveland, OH",
-            "marker-size": "medium",
-            "category":"Market Acceleration and Deployment",
-            "marker-color": "#FECB00",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-81.694335, 41.516803]
-        },
-        "id": "c9d33664ee09714cf33ef6db6426eed7"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-icz7dtyt5",
-            "title": "<h3 style=\"color:#E37222\">A High-Performance Computing “Cyber Wind Facility” Incorporating Fully Coupled Computational Fluid Dynamics and Computational Structural Dynamics for Turbine-Platform-Wake Interactions with the Atmosphere and Ocean</h3>",
-            "description": "Pennsylvania State University is developing a computer-modeled “Cyber Wind Facility” to simulate large wind energy array performance for both offshore and land-based wind turbines. The Cyber Wind Facility will model the impacts of complex wind and wave dynamics on wind turbine structures and energy performance, enabling developers to make more informed decisions on array and turbine placements.",
-            "recipient":"The Pennsylvania State University",
-            "totaldoeshare":"$1,200,000",
-            "fundingyear":"2011",
-            "location":"University Park, PA",
-            "marker-size": "medium",
-            "category":"Technology Development",
-            "marker-color": "#E37222",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-77.862167, 40.809131]
-        },
-        "id": "c9ffa70aa4e21da8066d29aa6f984fc6"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-icz7v3318",
-            "title": "<h3 style=\"color:#E37222\">Bottom Fixed Platform Dynamics Models Assessing Surface Ice Interactions for Transitional Depth Structures in the Great Lakes</h3>",
-            "description": "The University of Michigan is developing a modeling tool to simulate surface ice impact on innovative wind turbine substructure designs. The project will lead to the development of an ice-loading design module simulating interaction of freshwater ice features with offshore wind turbine structures in the Great Lakes.",
-            "recipient":"University of Michigan, Board of Regents",
-            "totaldoeshare":"$399,998",
-            "fundingyear":"2011",
-            "location":"Ann Arbor, MI",
-            "marker-size": "medium",
-            "category":"Technology Development",
-            "marker-color": "#E37222",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-83.935546, 42.293564]
-        },
-        "id": "cbf0f01f5ee5f541f5f69998b8c93460"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-ic7pkaj90",
-            "title": "<h2 style=\"color:#E37222\">Lightweight, Direct Drive, Fully Superconducting Generator for Large Wind Turbines</h2>",
-            "description": "rong>Funding year</strong>: 2011</p>\n<p>Advanced Magnet Lab is developing an innovative superconducting direct-drive generator for large wind turbines. The project will employ a new technology for the drivetrain coil configuration to address technical challenges of large torque electric machines.\n",
-            "recipient":"",
-            "totaldoeshare":" $1,896,850",
-            "fundingyear":"",
-            "locati</strong>: Advanced Magnet Lab, Inc.<br>\n<strong>Location</strong>: Palm Bay, FL",
-            "marker-size": "medium",
-            "marker-color": "E37222",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-80.649261, 28.04653]
-        },
-        "id": "cic7pvrbp013tu1m4nwwbrho1"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-icz4y5mr8",
-            "title": "<h3>U.S. Offshore Wind Manufacturing and Supply Chain Development</h3>",
-            "description": "Navigant Consulting examined factors and strategies influencing development of a U.S. supply chain for the offshore wind industry. Through industry surveys and stakeholder forums, the project identified potential gaps in the supply chain and opportunities for manufacturers and technical services companies to contribute to the domestic content of offshore project facilities.",
-            "recipient":"Navigant Consulting, Inc.",
-            "totaldoeshare":"$349,998",
-            "fundingyear":"2011",
-            "location":"Chicago, IL",
-            "marker-size": "medium",
-            "marker-color": "FECB00",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-87.637939, 41.892055]
-        },
-        "id": "d6c4d3f7aae409ddcd77084c19ad0543"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-icyvkw251",
-            "title": "<h3>Carolinas Offshore Wind Integration Case Study</h3>",
-            "description": "Duke Energy Business Services conducted a study that examined the potential system impacts of offshore wind development on the Duke Energy Carolinas system, determined the costs of upgrading the transmission system to support large-scale offshore projects, and assessed strategies for system integration and management. The first phase of the study found that new high-voltage transmission infrastructure is needed to reliably integrate offshore wind resource",
-            "recipient":"Duke Energy Business Services, LLC",
-            "totaldoeshare":"$534,910",
-            "fundingyear":"2011",
-            "location":"Charlotte, NC",
-            "marker-size": "medium",
-            "marker-color": "FECB00",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-80.848388, 35.236646]
-        },
-        "id": "d6d90c3dc14f6aa948de4b966bbd4db5"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-icza7b6ob",
-            "title": "<h3>Bat and Avian Migration Along the Lake Michigan Coastline: A Pilot Study to Inform Wind Turbine Siting</h3>",
-            "description": "Michigan State University studied bird and bat migration routes near the Great Lakes coastline in high-priority wind development areas. The project is providing valuable information to the wind power industry for the siting of both individual turbines and large wind farms.",
-            "recipient":"Michigan State University",
-            "totaldoeshare":"$99,951",
-            "fundingyear":"2009",
-            "location":"East Lansing, MI",
-            "marker-size": "medium",
-            "category":"Market Acceleration and Deployment",
-            "marker-color": "#FECB00",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-84.483489, 42.746507]
-        },
-        "id": "d77595aa2719b1336abaadbef800aa27"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-icz9y3qi9",
-            "title": "<h3>Measurement and Analysis of Extreme Wave and Ice Actions in the Great Lakes for Offshore Wind Platform Design</h3>",
-            "description": "The University of Michigan is evaluating the conditions and processes for development of freshwater ice in the Great Lakes and its resulting impact on offshore wind energy support structures. The project will evaluate the seasonal and decade-long trends in historical icing data through field measurements and by evaluating extreme loading due to combined wind, wave, and icing effects.",
-            "recipient":"University of Michigan, Board of Regents",
-            "totaldoeshare":"$692,782",
-            "fundingyear":"2011",
-            "location":"Ann Arbor, MI",
-            "marker-size": "medium",
-            "category":"Market Acceleration and Deployment",
-            "marker-color": "#FECB00",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-84.177246, 42.30169]
-        },
-        "id": "da851de687e78eec314d972e4c42c17d"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-id0b0g0y0",
-            "title": "<h3 style=\"color:#E37222;\">Large Wind Turbine Drivetrain Testing Facility</h3>",
-            "description": "Clemson University constructed a large wind turbine drivetrain test facility. The test facility will enhance the performance, durability, and reliability of both land-based and offshore utility-scale wind turbines by enabling the United States to expand its development and testing of large-scale drivetrain systems in the 5-15 megawatt range.",
-            "recipient":"Clemson University",
-            "totaldoeshare":"$44,555,252",
-            "fundingyear":"2009",
-            "location":"Charleston, SC",
-            "marker-size": "medium",
-            "marker-color": "E37222",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-79.942016, 32.851903]
-        },
-        "id": "dc41330f2499a25b33c51a80b1fb9146"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-icyw4duz3",
-            "title": "<h3>Optimized Vessel Assessment for Offshore Wind in the United States</h3>",
-            "description": "Douglas-Westwood identified the national vessel requirements under several offshore wind industry growth scenarios. The project collected data on the vessels currently deployed in the international offshore wind industry; assessed necessary trends for future dedicated vessels; and identified resources to implement innovative strategies to support companies seeking to build new vessels and establish related services as the industry grows.",
-            "recipient":"Douglas-Westwood, LLC",
-            "totaldoeshare":"$300,000",
-            "fundingyear":"2011",
-            "location":"New York, NY",
-            "marker-size": "medium",
-            "category":"Market Acceleration and Deployment",
-            "marker-color": "#FECB00",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-73.987426, 40.744135]
-        },
-        "id": "e85521b68fb0adbff12e0cc37d468924"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-icz7gs776",
-            "title": "<h3 style=\"color:#E37222\">Advanced Offshore Wind Energy: Atlantic Consortium</h3>",
-            "description": "The University of Delaware is focused on establishing the design requirements for the offshore wind industry in the United States. Research includes: resistance to extreme weather and corrosion; top-to-bottom redesign of offshore turbines to meet unique requirements, including engineering of underwater mounting, gearbox improvement, and corrosion characterization; development of educational programs; and a university program to train design professionals and managers.",
-            "recipient":"University of Delaware",
-            "totaldoeshare":"$747,540",
-            "fundingyear":"2009",
-            "location":"Newark, DE",
-            "marker-size": "medium",
-            "marker-color": "E37222",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-75.750732, 39.650112]
-        },
-        "id": "ec376061e9bfeb39d67c4db6ee8109a5"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-ici2ja418",
-            "title": "<h2 style=\"color:#E37222\">Offshore 12-Megawatt Turbine Rotor with Advanced Materials and Passive Design Concepts</h2?",
-            "description": "Siemens Energy is investigating the use of various passive aeroelastic and aerodynamic control technologies for their potential to improve the aerodynamic performance of wind turbine blades and decrease the cost of energy.",
-            "recipient":"Siemens Energy, Inc.",
-            "totaldoeshare":"$4,093,185",
-            "fundingyear":"2011",
-            "location":"Orlando, FL",
-            "marker-size": "medium",
-            "marker-color": "E37222",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-81.392211, 28.579697]
-        },
-        "id": "efd52af582c8231587681cd49c5a1024"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-icz7wyg49",
-            "title": "<h3 style=\"color:#E37222\">High-Resolution Computational Algorithms for Simulating Offshore Wind Farms</h3>",
-            "description": "The University of Minnesota is developing computational tools to simulate wave and wind interactions within various floating offshore wind farm configurations. The project is validating computational models using data from laboratory measurements specifically tailored to emulate the key dynamic features of floating wind turbines and farms, as well as field data from a land-based field site. The computational tools will be tailored to take full advantage of high-performance computing and will thus enable industry to design efficient and reliable offshore turbines and optimize turbine arrays on a site-specific basis.",
-            "recipient":"University of Minnesota, Board of Regents",
-            "totaldoeshare":"$1,200,000",
-            "fundingyear":"2011",
-            "location":"Minneapolis, MN",
-            "marker-size": "medium",
-            "marker-color": "E37222",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-93.295898, 44.995882]
-        },
-        "id": "f27f00b5a3efc8370b309d9a6cf18fb2"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-icza1y3na",
-            "title": "<h3>Modeling Wildlife Densities and Habitat Use Across Temporal and Spatial Scales on the Mid-Atlantic Continental Shelf</h3>",
-            "description": "Biodiversity Research Institute is collecting and analyzing data on bird, sea turtle, and marine mammal abundance and movement in the mid-Atlantic region to determine species risk to offshore wind plant interaction. The project is performing baseline surveys using a variety of technologies to develop predictive and risk assessment frameworks.",
-            "recipient":"Biodiversity Research Institute",
-            "totaldoeshare":"$4,500,000",
-            "fundingyear":"2011",
-            "location":"Gorham, ME",
-            "marker-size": "medium",
-            "category":"Market Acceleration and Deployment",
-            "marker-color": "#FECB00",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-70.444335, 43.697665]
-        },
-        "id": "f3af14035493386486bb2eb9bd9542fc"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-icz7sqxr7",
-            "title": "<h3 style=\"color:#E37222\">DeepCWind - Deepwater Offshore Wind Consortium</h3>",
-            "description": "The University of Maine is developing floating offshore wind farm technologies for deepwater development. The project will partially  validate computer models for designing and analyzing floating offshore wind turbines and research integrating more durable, lighter, hybrid composite materials into offshore wind floating platforms and towers.",
-            "recipient":"University of Maine",
-            "totaldoeshare":"$7,100,000",
-            "fundingyear":"2009",
-            "location":"Orono, ME",
-            "marker-size": "medium",
-            "category":"Technology Development",
-            "marker-color": "#E37222",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-68.674163, 44.886039]
-        },
-        "id": "f4b1e2f7a4e5a179adca75f1555c11d2"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-ici1trnn3",
-            "title": "<h2 style=\"color:#E37222\">Reliable, Lightweight Transmission for Offshore, Utility-Scale Wind Turbines</h2>",
-            "description": "Eaton Corporation conducted research to reduce the technical risk for a hydrostatic drivetrain for high-power, utility-scale wind turbines. Research included detailed design and cost analysis of key components including the pump, shaft connection, and controls.",
-            "recipient":"Eaton Corporation",
-            "totaldoeshare":"$533,518",
-            "fundingyear":"2011",
-            "location":"Southfield, MI",
-            "marker-size": "medium",
-            "marker-color": "E37222",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-83.221092, 42.477161]
-        },
-        "id": "f54099c899970d362739411ab3bdf3b9"
-    }`
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-icz8140ta",
-            "title": "<h3 style=\"color:#E37222;\">Advanced Offshore Wind Turbine/Foundation Concept for the Great Lakes</h3>",
-            "description": "The University of Toledo is developing computer modeling for a two-bladed downwind offshore turbine and foundation design. The project is also creating curriculum for offshore wind turbine design at the University of Toledo.",
-            "recipient":"University of Toledo",
-            "totaldoeshare":"$750,000",
-            "fundingyear":"2009",
-            "location":"Toledo, OH",
-            "marker-size": "medium",
-            "category":"Technology Development",
-            "marker-color": "#E37222",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-83.50708, 41.689322]
-        },
-        "id": "f580fb7b055134ea55918bc513baae29"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-ici20opm4",
-            "title": "<h2 style=\"color:#E37222\">Superconductivity for Large-Scale Wind Turbines</h2>",
-            "description": "GE Global Research adapted low-temperature superconductivity technology to the design of a direct-drive wind turbine generator at the 10 megawatt power level. The design employs a unique stationary superconducting component design that reduces the risk of cryogenic fluid leakage.",
-            "recipient":"General Electric (GE) Global Research",
-            "totaldoeshare":"$449,183",
-            "fundingyear":"2011",
-            "location":"Niskayuna, NY",
-            "marker-size": "medium",
-            "category":"Technology Development",
-            "marker-color": "#E37222",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-73.846321, 42.782803]
-        },
-        "id": "f5d8657b2dce0d6ead7a64400613792d"
-    }
-    {
-        "type": "Feature",
-        "properties": {
-            "id": "marker-icz92guw1",
-            "title": "<h3 style=\"color:#1F82BB;\">WindFloat Pacific Offshore Wind Demonstration Project</h3>",
-            "description": "Principle Power will install five WindFloat semi-submersible foundations outfitted with 6-megawatt direct-drive offshore wind turbines. The project will be sited in deep water approximately 18 miles off the coast of Coos Bay, Oregon, and will facilitate the optimization of semi-submersible substructures and floating foundations for large turbines.",
-            "recipient":"Principle Power, Inc.",
-            "totaldoeshare":"$46,666,667",
-            "fundingyear":"2012",
-            "location":"Multi-state",
-            "marker-size": "medium",
-            "category":"Advanced Technology Demonstration",
-            "marker-color": "#1F82BB",
-            "marker-symbol": ""
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-122.272338, 37.903032]
-        },
-        "id": "facd820fe1b1f1ba5df794837fdca7fd"
-    }
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-id0a3g6j0",
+        "title": "<h3 style=\"color:#E37222;\">Integrated Optimization and Cost of Energy Analysis of an Innovative Offshore Wind Plan for the Virginia Outer Continental Shelf</h3>",
+        "description": "Dominion, an electric and natural gas utility, is analyzing the performance and cost-of-energy estimates of a hypothetical 600 megawatt offshore wind project for a variety of sites on the U.S. Atlantic coastline in water depths up to 60 meters.",
+        "recipient":"Dominion (operated by Virginia Electric and Power Company)",
+        "totaldoeshare":"$350,000",
+        "fundingyear":"2011",
+        "location":"Richmond, VA",
+        "marker-size": "medium",
+        "category":"Technology Development",
+        "marker-color": "#E37222",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-77.55249, 37.548932]
+    },
+    "id": "0610583ae9f20662598b8d69ae0a72c7"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-icnjraec0",
+        "title": "<h3>National Offshore Wind Energy Grid Interconnection Study</h3>",
+        "description": "ABB is assessing the likely impact of offshore wind development in the various regions of the U.S. from the electric utility perspective. This work includes developing energy production profiles, performing an initial integration analysis, and evaluating the applicability of traditional integration study methods and potential energy collection and delivery technologies.",
+        "recipient":"ABB, Inc.",
+        "totaldoeshare":"$900,000",
+        "fundingyear":"2011",
+        "location":"Raleigh, NC",
+        "marker-size": "medium",
+        "category":"Market Acceleration and Deployment",
+        "marker-color": "#FECB00",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-78.640136, 35.78217]
+    },
+    "id": "0e618c9a8a408f5c40d0e2c480e3a072"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-ici25bga5",
+        "title": "<h2 style=\"color:#E37222\">U.S.-Sourced, Next Generation Drivetrain for Land-Based and Offshore Wind Turbines</h2>",
+        "description": "Description: Thational Renewable Energy Laboratory next generation drivetrain project is optimizing and testing a hybrid design that combines the advantages of geared and direct-drive concepts through an improved single-stage gearbox and a medium speed permanent magnet generator that reduces the need for rare earth materials. The technology developed will be scalable to 10 megawatts.",
+        "recipient":"National Renewable Energy Laboratory (operated by Alliance for Sustainable Energy, LLC)",
+        "totaldoeshare":"$1,804,500",
+        "fundingyear":"2011",
+        "location":"Golden, CO",
+        "marker-size": "medium",
+        "category":"Technology Development",
+        "marker-color": "#E37222",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-105.184564, 39.750489]
+    },
+    "id": "0fde30b1d67adc3e18768bf66d2916f6"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-icz8adukc",
+        "title": "<h3 style=\"color:#1F82BB;\">Lake Erie Offshore Wind Project Icebreaker™</h3>",
+        "description": "Lake Erie Energy Development Corporation plans to install nine 3-megawatt direct-drive wind turbines on innovative ‘ice breaker’ monopile foundations that are designed to reduce ice loading seven miles off the coast of Cleveland in Lake Erie.",
+        "recipient":"Lake Erie Energy Development Corporation",
+        "totaldoeshare":"$3,705,333",
+        "fundingyear":"2012",
+        "location":"OH",
+        "marker-size": "medium",
+        "category":"Advanced Technology Demonstration",
+        "marker-color": "#1F82BB",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-81.452636, 41.236511]
+    },
+    "id": "1095fabddbf59edcdf32a6ae92a0ee05"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-icz9hzm75",
+        "title": "<h3>Investigating Marine Boundary Layer Parameterizations by Combining Observations with Models via State Estimation</h3>",
+        "description": "The National Center for Atmospheric Research is examining the layer of the atmosphere that has direct contact with the ocean to deter- mine how temperature changes in the atmosphere can affect the ocean, and how temperature changes in the ocean can affect atmospheric conditions impacting wind energy production and facility design parameters.",
+        "recipient":"National Center for Atmospheric Research",
+        "totaldoeshare":"$702,000",
+        "fundingyear":"2011",
+        "location":"Boulder, CO",
+        "marker-size": "medium",
+        "category":"Market Acceleration and Deployment",
+        "marker-color": "#FECB00",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-105.194091, 40.014994]
+    },
+    "id": "158fb0b9cd883fca292f1c55973712da"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-icz70j5k2",
+        "title": "<h3 style=\"color:#E37222\">Simulator for Offshore Wind Farm Applications (SOWFA)</h3>",
+        "description": "The National Renewable Energy Laboratory team is developing and validating the first design tool to fully simulate the entire multi-scale, multi-physics system of offshore wind plants under a single software framework. The Simulator for Offshore Wind Farm Applications will be a freely available, open-source, computer-aided engineering tool.",
+        "recipient":"National Renewable Energy Laboratory (operated by Alliance for Sustainable Energy, LLC)",
+        "totaldoeshare":"$1,200,000",
+        "fundingyear":"2011",
+        "location":"Golden, CO",
+        "marker-size": "medium",
+        "category":"Technology Development",
+        "marker-color": "#E37222",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-105.192375, 39.75392]
+    },
+    "id": "188746fbbce9583cf91b842af796cbfe"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-icz8yhvq0",
+        "title": "<h3 style=\"color:#1F82BB;\">Fishermen's Atlantic City Windfarm</h3>",
+        "description": "Fishermen’s plans to install up to 6 turbines in state waters three miles off the coast of Atlantic City, New Jersey. The project will include extensive data gathering and analysis by the Energy Department’s National Renewable Energy Laboratory. The project will advance the Body of Knowledge concerning wind farm turbine density, construction operations around marine mammals, and operations constraints during periods of low visibility.",
+        "recipient":"Fishermen's Atlantic City Windfarm, LLC",
+        "totaldoeshare":"$46,666,666",
+        "fundingyear":"2012",
+        "location":"NJ",
+        "marker-size": "medium",
+        "category":"Advanced Technology Demonstration",
+        "marker-color": "#1F82BB",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-74.421386, 40.304665]
+    },
+    "id": "1d9de7e91bc8099f4acc1e49c3fa9ecc"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-icz55bi29",
+        "title": "<h3>Mid-Atlantic Wind - Overcoming the Challenges - Defining and Overcoming the Technical, Economic, and Legal Issues</h3>",
+        "description": "Sustainable Energy Advantage studied and documented the technical, economic, and policy issues that have been impeding the development of wind energy in the Mid-Atlantic region and worked to identify mechanisms for overcoming or mitigating those barriers. The results of the study are documented in the report, <a href=\"http://www.perihq.com/documents/Mid- AtlanticWind%20Rpt.%2031.5.12_FINAL%20SUBMISSION.pdf\">Mid-Atlantic Wind - Overcoming the Challenges</a>.",
+        "recipient":"Sustainable Energy Advantage, LLC",
+        "totaldoeshare":"$100,000",
+        "fundingyear":"2009",
+        "location":"Framingham, MA",
+        "marker-size": "medium",
+        "category":"Market Acceleration and Deployment",
+        "marker-color": "#FECB00",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-71.405639, 42.2895]
+    },
+    "id": "20eb370fdcb742a9ad358e7f3adfbc0a"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-icz8mbore",
+        "title": "<h3 style=\"color:#1F82BB;\">New England Aqua Ventus I</h3>",
+        "description": "The University of Maine plans to install a pilot floating offshore wind farm with two 6-megawatt direct-drive turbines on concrete semi- submersible foundations at a test site off Monhegan Island, Maine. The pre-stressed concrete substructures proposed in this project could offer significant cost reduction opportunities over steel if manufactured at a large scale.",
+        "recipient":"University of Maine",
+        "totaldoeshare":"$3,801,879",
+        "fundingyear":"2012",
+        "location":"ME",
+        "marker-size": "medium",
+        "category":"Advanced Technology Demonstration",
+        "marker-color": "#1F82BB",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-68.713989, 44.882147]
+    },
+    "id": "21e11e03d89ce6b6b7c69295f72d34a7"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-id0agq4v3",
+        "title": "<h3 style=\"color:#E37222;\">Hurricane Resilient Wind Plant Concept Study</h3>",
+        "description": "The National Renewable Energy team is designing and analyzing a 500 megawatt wind plant comprised of 10 megawatt wind turbines, deployed in 25-meter water depths in the western Gulf of Mexico. New technology will be evaluated to overcome the challenges posed by hurricanes while still achieving a low cost of energy.",
+        "recipient":"National Renewable Energy Laboratory (operated by Alliance for Sustainable Energy, LLC)",
+        "totaldoeshare":"$500,000",
+        "fundingyear":"2011",
+        "location":"Golden, CO",
+        "marker-size": "medium",
+        "category":"Technology Development",
+        "marker-color": "#E37222",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-105.187225, 39.746662]
+    },
+    "id": "256b607026c4ff9e31b0af99c9398e68"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-iczaofqp1",
+        "title": "<h3>Assessment of Offshore Wind Farm Effects on Sea Surface, Subsurface, and Airborne Electronic Systems</h3>",
+        "description": "The University of Texas-Austin assessed the potential of offshore wind farms to cause electromagnetic or acoustic interference of electronic detection, communication, and navigation equipment operating in the marine environment. The project interacted closely with commercial and governmental stakeholders to identify concerns and recommending mitigation methods when required.",
+        "recipient":"University of Texas-Austin",
+        "totaldoeshare":"$500,000",
+        "fundingyear":"2011",
+        "location":"Austin, TX",
+        "marker-size": "medium",
+        "category":"Market Acceleration and Deployment",
+        "marker-color": "#FECB00",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-97.163085, 30.315987]
+    },
+    "id": "2655571f9572142f67ed1b3ef5490487"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-iczalm6a0",
+        "title": "<h3>Deepwater Offshore Bat and Avian Monitoring Program</h3>",
+        "description": "Stantec Consulting Services has collected critical information on offshore bird and bat activity. The project will result in more advanced equipment and methodologies for remote offshore bird and bat migration data collection and monitoring systems.",
+        "recipient":"Stantec Consulting Services, Inc.",
+        "totaldoeshare":"$599,501",
+        "fundingyear":"2011",
+        "location":"Topsham, ME",
+        "marker-size": "medium",
+        "category":"Market Acceleration and Deployment",
+        "marker-color": "#FECB00",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-69.976043, 43.931775]
+    },
+    "id": "2aa905697b18c1e69abb2b36ec535a06"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-icz5islfc",
+        "title": "<h3>Offshore Wind Energy Systems Engineering Course Development</h3>",
+        "description": "The University of Massachusetts developed a formal course entitled “Offshore Wind Energy Systems Engineering” and will disseminate the course content and materials for use across the United States. The University plans to make continued updates to the Web-based course material in the future.",
+        "recipient":"University of Massachusetts",
+        "totaldoeshare":"$252,687",
+        "fundingyear":"2009",
+        "location":"Amherst, MA",
+        "marker-size": "medium",
+        "category":"Market Acceleration and Deployment",
+        "marker-color": "#FECB00",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-72.526245, 42.399122]
+    },
+    "id": "2cd47d6488eae4ca4fc000e28297f4f3"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-icz72waz3",
+        "title": "<h3 style=\"color:#E37222\">Analysis of Installation, Operation, and Maintenance Strategies to Reduce Levelized Cost of Energy</h3>",
+        "description": "The National Renewable Energy Laboratory is combining its offshore wind cost modeling capabilities and those of the Energy research Centre of the Netherlands, along with the operating experience of an expert industry panel, to conduct an assessment of optimized installation, operation, and maintenance strategies and technologies to evaluate their relative costs and benefits for offshore wind projects in U.S. waters.",
+        "recipient":"National Renewable Energy Laboratory (operated by Alliance for Sustainable Energy, LLC)",
+        "totaldoeshare":"$200,000",
+        "fundingyear":"2011",
+        "location":"Golden, CO",
+        "marker-size": "medium",
+        "category":"Technology Development",
+        "marker-color": "#E37222",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-105.197439, 39.75359]
+    },
+    "id": "37f59a101c078fa237c73b9b44da53d0"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-id0a8oyn1",
+        "title": "<h3 style=\"color:#E37222;\">Shallow Water Offshore Wind System Optimization for the Great Lakes</h3>",
+        "description": "Freshwater Wind is creating a computational model to study how existing wind turbine systems could be optimized for shallow water conditions found in the Great Lakes. The project analysis included a detailed study of different foundations and installation concepts for the soil composition and shallow waters, a larger rotor for the low wind speed, an optimized layout leveraging cable costs with Annual Energy Production, and improved operating and maintenance strategies.",
+        "recipient":"Freshwater Wind, LLC",
+        "totaldoeshare":"$500,000",
+        "fundingyear":"2011",
+        "location":"Youngstown, OH",
+        "marker-size": "medium",
+        "category":"Technology Development",
+        "marker-color": "#E37222",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-80.650634, 41.10419]
+    },
+    "id": "4f8568d6da7bc8db370386b188a63f5f"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-icz95g7z2",
+        "title": "<h3>National Offshore Wind Energy Resource and Design Condition Data Campaign</h3>",
+        "description": "AWS Truepower is establishing a Web-based national met-ocean wind energy resource and design conditions data inventory. The project will establish data needs, identify existing sources of relevant data, and carry out a gaps analysis to establish long term requirements for new data to be gathered and disseminated through national public-private collaboration initiatives.",
+        "recipient":"AWS Truepower, LLC",
+        "totaldoeshare":"$900,000",
+        "fundingyear":"2011",
+        "location":"Albany, NY",
+        "marker-size": "medium",
+        "category":"Market Acceleration and Deployment",
+        "marker-color": "#FECB00",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-73.696289, 42.674358]
+    },
+    "id": "5fb3f2f51e4bddb46101d3c1cd7926b6"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-icz9bmd63",
+        "title": "<h3>An Integrated Approach to Offshore Wind Energy Assessment: Great Lakes 3D Wind Experiment</h3>",
+        "description": "Indiana University, in partnership with Case Western University, Clarkson University, and Arizona State University, is conducting a project to integrate wind data from remote sensing, aerial and satellite measurements, and meteorological towers in producing a high resolution wind characterization of Lake Erie. The project will also analyze the effectiveness of various measurement instruments and develop best practices for each type.",
+        "recipient":"Indiana University Trustees",
+        "totaldoeshare":"$700,000",
+        "fundingyear":"2011",
+        "location":"Multi-state",
+        "marker-size": "medium",
+        "category":"Market Acceleration and Deployment",
+        "marker-color": "#FECB00",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-86.550292, 39.206718]
+    },
+    "id": "62356d355f0d777e42a93edc6e2b8be0"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-icz9fmcg4",
+        "title": "<h3>Impacts of Stratification and Non-Equilibrium Winds and Waves on Hub-Height Winds</h3>",
+        "description": "The National Center for Atmospheric Research is evaluating surface level to hub-height level wind speed extrapolations and methods in an effort to evaluate and improve the siting and design of turbines, as well as the accuracy of wind energy predictions.",
+        "recipient":"National Center for Atmospheric Research",
+        "totaldoeshare":"$702,000",
+        "fundingyear":"2011",
+        "location":"Boulder, CO",
+        "marker-size": "medium",
+        "category":"Market Acceleration and Deployment",
+        "marker-color": "#FECB00",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-105.265502, 39.935012]
+    },
+    "id": "66afbf6a5bbed6fe8b6b54181a728efb"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-ici1msy22",
+        "title": "<h2 style=\"color:#E37222\">Novel, Low-Cost, High Reliability Wind Turbine Drivetrain</h2>",
+        "description": "Clipper Windpower developed a megawatt-scale, low-cost drivetrain design based on a chain-drive concept. The project analyzed potential improvements in the areas of cost, serviceability, and compliance to rotor loads.",
+        "recipient":"Clipper Windpower",
+        "totaldoeshare":"$468,450",
+        "fundingyear":"20",
+        "location":"Cedar Rapids, IA",
+        "marker-size": "medium",
+        "category":"Technology Development",
+        "marker-color": "#E37222",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-91.647949, 42.016651]
+    },
+    "id": "69d3b765589e500f00db9f17563b6878"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-icz5als9a",
+        "title": "<h3>Hull Municipal Light Plant Offshore Wind Project</h3>",
+        "description": "The Town of Hull on the east coast of Massachusetts is conducting a multi-phase offshore wind project that consists of organizing events and planning for the development of an offshore wind R&D facility. The town conducted a workshop to analyze the concept of designing and constructing an offshore wind testing platform and wind energy generation facility. The project will ultimately develop a plan for the design, construction, operation and maintenance of an offshore wind testing platform and offshore wind energy generation facility.",
+        "recipient":"Town of Hull",
+        "totaldoeshare":"$210,298",
+        "fundingyear":"2009",
+        "location":"Hull, MA",
+        "marker-size": "medium",
+        "category":"Market Acceleration and Deployment",
+        "marker-color": "#FECB00",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-70.906448, 42.30626]
+    },
+    "id": "6ba1e4d70ca933adc13a3b9feedeffe6"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-icz78m7a4",
+        "title": "<h3 style=\"color:#E37222\">Development of Mooring-Anchor Program for Coupling with FAST (Fatigue, Aerodynamics, Structures, and Turbulence)</h3>",
+        "description": "The Texas Engineering Experiment Station at Texas A&M built on existing computer models to simulate mooring dynamics of floating offshore wind turbine structures. The project’s model takes into account a variety of interactions between platform anchors and the seabed.",
+        "recipient":"Texas Engineering Experiment Station at Texas A&M",
+        "totaldoeshare":"$400,000",
+        "fundingyear":"2011",
+        "location":"College Station, TX",
+        "marker-size": "medium",
+        "category":"Technology Development",
+        "marker-color": "#E37222",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-96.329498, 30.65209]
+    },
+    "id": "7564c2344d9d2788443799b62a8185b4"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-icz8q5jnf",
+        "title": "<h3 style=\"color:#1F82BB;\">Virginia Offshore Wind Technology Advancement Project: Demonstration of an Innovative Offshore Wind System Off the Coast of Virginia</h3>",
+        "description": "Dominion, an electric and natural gas utility, will design, develop, and install two 6-megawatt direct-drive turbines 26 nautical miles off the coast of Virginia Beach on inward battered guide structures that offer the strength of traditional jacket or space-frame structures but use substantially less steel.",
+        "recipient":"Dominion (operated by Virginia Electric and Power Company)",
+        "totaldoeshare":"$46,666,667",
+        "fundingyear":"2012",
+        "location":"VA",
+        "marker-size": "medium",
+        "category":"Advanced Technology Demonstration",
+        "marker-color": "#1F82BB",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-78.706054, 37.874853]
+    },
+    "id": "7802a9b03abfc1a23a4dd6fce9d8daec"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-iczahgexc",
+        "title": "<h3>A Synchronized Sensor Array for Remote Monitoring of Avian and Bat Interactions with Offshore Renewable Energy Facilities</h3>",
+        "description": "Oregon State University is monitoring avian and bat interactions with offshore wind turbines using a fully integrated sensor array monitoring system with on-board custom designed data post-processing and statistical-based software.",
+        "recipient":"Oregon State University",
+        "totaldoeshare":"$600,000",
+        "fundingyear":"2011",
+        "location":"Corvallis, OR",
+        "marker-size": "medium",
+        "category":"Market Acceleration and Deployment",
+        "marker-color": "#FECB00",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-123.269348, 44.584599]
+    },
+    "id": "78dbee8cabfe8d58bf42bc8f376bc451"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-ici1g32e1",
+        "title": "<h2 style=\"color:#E37222\">Boulder Wind Power Advanced Gearless Drivetrain</h2>",
+        "description": "Boulder Wind Power's advanced gearless drivetrain project developed a design concept for an innovative permanent magnet-based direct-drive generator for improved performance and reliability of a large utility-scale turbines up to 10 megawatts for land-based and offshore applications.",
+        "recipient":"Boulder Wind Power (operated by Core Wind Power, Inc.)",
+        "totaldoeshare":"$486,000",
+        "fundingyear":"2011",
+        "location":"Boulder, CO",
+        "marker-size": "medium",
+        "category":"Technology Development",
+        "marker-color": "#E37222",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-105.281982, 40.052847]
+    },
+    "id": "78f8993ce3175ebb8c6b2bca24389836"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-id0anstk0",
+        "title": "<h3 style=\"color:#E37222;\">Advanced Floating Turbine</h3>",
+        "description": "Nautica Windpower is developing a conceptual design for a deep water offshore wind farm using downwind rotors with flexible blades and lightweight floating platforms with improved access for maintenance.",
+        "recipient":"autica Windpower, LLC",
+        "totaldoeshare":"$500,000",
+        "fundingyear":"2011",
+        "location":"Olmstead Falls, OH",
+        "marker-size": "medium",
+        "category":"Technology Development",
+        "marker-color": "#E37222",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-81.908912, 41.377839]
+    },
+    "id": "7efddd1ca71a3c2d7497e07fbdd9d0b9"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-icz5easjb",
+        "title": "<h3>Empowering Coastal States and Utilities through Model Offshore Wind Legislation and Outreach</h3>",
+        "description": "The University of Delaware has drafted model legislation for offshore wind development and conducted workshops. The project built upon existing research and policy development for offshore wind in order to advance wind energy development to meet human health, energy security, economic development, and climate change goals in an environmentally responsible manner.",
+        "recipient":"University Of Delaware",
+        "totaldoeshare":"$99,967",
+        "fundingyear":"2009",
+        "location":"Newark, DE",
+        "marker-size": "medium",
+        "category":"Market Acceleration and Deployment",
+        "marker-color": "#FECB00",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-75.701293, 39.698734]
+    },
+    "id": "89fb59716b494d6972fadf9f89f3d33e"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-ici2dwz17",
+        "title": "<h2 style=\"color:#E37222\">Innovative Offshore Vertical-Axis Wind Turbine Rotors</h2>",
+        "description": "During this five-year project, a collaborative team consisting of members from Sandia National Laboratories, several universities, and a major U.S. wind blade manufacturer are designing, building, and testing advanced vertical-axis wind turbine rotors for deepwater offshore wind energy production on the 10-20 megawatt turbine scale.",
+        "recipient":"Sandia National Laboratories (operated by Lockheed Martin Corporation)",
+        "totaldoeshare":"$4,140,000",
+        "fundingyear":"2011",
+        "location":"Albuquerque, NM",
+        "marker-size": "medium",
+        "category":"Technology Development",
+        "marker-color": "#E37222",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-106.638793, 35.124401]
+    },
+    "id": "8a0a741bccd9e9e5f46d128b1f11c154"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-icz8iwuxd",
+        "title": "<h3 style=\"color:#1F82BB;\">Hywind Maine Floating Offshore Wind Project</h3>",
+        "description": "Statoil North America performed numerous environmental surveys in the Gulf of Maine, as well as design studies, in order to refine its proposed design, advancing the state-of-the-art in specialized floating spar buoy substructures.",
+        "recipient":"Statoil Wind U.S., LLC",
+        "totaldoeshare":"$3,425,000",
+        "fundingyear":"2012",
+        "location":"ME",
+        "marker-size": "medium",
+        "category":"Advanced Technology Demonstration",
+        "marker-color": "#1F82BB",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-67.697753, 44.637391]
+    },
+    "id": "8d4ffc72cbaf614f3a88789b01c82b39"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-id0b48z91",
+        "title": "<h3 style=\"color:#E37222;\">Massachusetts Wind Technology Testing Center</h3>",
+        "description": "The Massachusetts Clean Energy Center used project funding to establish the Wind Technology Testing Center, the nation’s first facility capable of testing wind turbine blades 90 meters in length. The Center’s testing capabilities will accelerate technical innovation in turbine and blade design and speed up deployment of longer turbine blades, which can produce more energy per turbine and help reduce the overall cost of wind energy.",
+        "recipient":"Massachusetts Clean Energy Center",
+        "totaldoeshare":"$24,752,779",
+        "fundingyear":"2009",
+        "location":"Boston, MA",
+        "marker-size": "medium",
+        "category":"Technology Development",
+        "marker-color": "#E37222",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-71.109008, 42.419401]
+    },
+    "id": "91c650ad368fc977c88f6e9198e01f80"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-id0asbns1",
+        "title": "<h3 style=\"color:#E37222;\">System Design Optimized for a Large-Turbine Wind Farm near Wilmington Canyon</h3>",
+        "description": "The University of Delaware is analyzing design trade-offs for offshore wind farms in 20-40 meter water depth for turbine production, deployment, and maintenance. The analysis will determine ways to maximize energy production, improve reliability, reduce and simplify operations at sea, and decrease operating and capital cost.",
+        "recipient":"University of Delaware",
+        "totaldoeshare":"$500,000",
+        "fundingyear":"2011",
+        "location":"Newark, DE",
+        "marker-size": "medium",
+        "category":"Technology Development",
+        "marker-color": "#E37222",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-75.751419, 39.695564]
+    },
+    "id": "92c34a83a409a1f4e4033b601684950e"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-icz9l3m46",
+        "title": "<h3>Advanced Technology for Improving the Design Basis of Offshore Wind Energy Systems</h3>",
+        "description": "Savannah River National Laboratory is developing new techniques for characterizing steep and breaking waves and resulting structural loads on monopile foundations.",
+        "recipient":"Savannah River National Laboratory (operated by Savannah River Nuclear Solutions, LLC)",
+        "totaldoeshare":"$554,845",
+        "fundingyear":"2011",
+        "location":"Aiken, SC",
+        "marker-size": "medium",
+        "category":"Market Acceleration and Deployment",
+        "marker-color": "#FECB00",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-81.727294, 33.596318]
+    },
+    "id": "97f8632bb782396bfc763b930c5878ef"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-icyvodst2",
+        "title": "<h3>Mid-Atlantic Offshore Wind Interconnection and Transmission</h3>",
+        "description": "The University of Delaware is examining potential effects of wind penetration on the Mid-Atlantic electric grid and facilitating grid operations planning by identifying necessary system upgrades and grid management strategies to ensure reliable and efficient operation of the electric system.",
+        "recipient":"University of Delaware",
+        "totaldoeshare":"$540,000",
+        "fundingyear":"2011",
+        "location":"Newark, DE",
+        "marker-size": "medium",
+        "category":"Market Acceleration and Deployment",
+        "marker-color": "#FECB00",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-75.805664, 39.69662]
+    },
+    "id": "9d20a5f2a01dffc5b64c176f141859b2"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-icyzcd0f4",
+        "title": "<h3>User Friendly Analysis Tool for Optimized Offshore Wind Ports Assessment</h3>",
+        "description": "Garrad Hassan America incorporated lessons learned from Northern European offshore wind projects to identify the port requirements necessary to meet various offshore wind industry growth scenarios in the United States. The project created a publicly available analysis  tool to enable decision-makers to perform cost-benefit assessments of potential port infrastructure investments in support of offshore wind development.",
+        "recipient":"Garrad Hassan America, Inc.",
+        "totaldoeshare":"$497,725",
+        "fundingyear":"2011",
+        "location":"San Diego, CA",
+        "marker-size": "medium",
+        "category":"Market Acceleration and Deployment",
+        "marker-color": "#FECB00",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-117.158203, 32.713355]
+    },
+    "id": "9ecf1b309e569db0c8761d8591de5dfa"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-icz5nri6d",
+        "title": "<h3 style=\"color:#E37222\">Creation of a Model for Interaction of Bottom-Fixed Wind Turbines with Surface Ice for Use with Common Simulation Codes</h3>",
+        "description": "DNV is creating a computational tool to simulate how an offshore wind turbine platform may be structurally impacted by interactions with ice on the surface of the water in regions such as the sub-Arctic or the Great Lakes. The project will lead to a design code for ice loading on the towers of offshore, bottom-mounted wind turbines that can interface with common simulation codes and is accessible to the public.",
+        "recipient":"DNV Renewables, Inc.",
+        "totaldoeshare":"$306,192",
+        "fundingyear":"2011",
+        "location":"Seattle, WA",
+        "marker-size": "medium",
+        "category":"Technology Development",
+        "marker-color": "#E37222",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-122.332763, 47.606163]
+    },
+    "id": "9f896a5f5517c6137bec75c65a906bc5"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-icz85405b",
+        "title": "<h3 style=\"color:#1F82BB;\">Gulf Offshore Wind (GOWind) Demonstration Project</h3>",
+        "description": "Baryonyx completed longitudinal wind resource assessments, conducted avian surveys, and designed an advanced jacket foundation using lessons learned from the oil and gas sector for the company’s planned Gulf Offshore Wind Demonstration Project off the coast of Texas",
+        "recipient":"Baryonyx Corporation",
+        "totaldoeshare":"$3,819,878",
+        "fundingyear":"2012",
+        "location":"TX",
+        "marker-size": "medium",
+        "category":"Advanced Technology Demonstration",
+        "marker-color": "#1F82BB",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-97.734375, 30.259067]
+    },
+    "id": "a8a14319b69f086beac15d89ea747710"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-iczay0s20",
+        "title": "<h3 style=\"color:#E37222;\">Pivot Offshore Wind Turbine</h3>",
+        "description": "Clear Path Energy created a conceptual design for offshore wind systems that can be deployed in water deeper than 35 meters using innovative foundation technology and installation techniques.",
+        "recipient":"Clear Path Energy, LLC",
+        "totaldoeshare":"$500,000",
+        "fundingyear":"2011",
+        "location":"Wilmington, DE",
+        "marker-size": "medium",
+        "category":"Technology Development",
+        "marker-color": "#E37222",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-75.552978, 39.772658]
+    },
+    "id": "a9e5cda51da330a0caab80f9cca0003a"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-icz00sge7",
+        "title": "<h3>U.S. Offshore Wind Market and Economic Analysis, Annual Market Assessment</h3>",
+        "description": "Navigant Consulting is issuing a comprehensive assessment of the U.S. offshore wind market each year over a three-year period. The project provides stakeholders with updated information, data analysis, and trends on technical, regulatory, financial, economic, and workforce development  drivers influencing industry growth.",
+        "recipient":"Navigant Consulting, Inc.",
+        "totaldoeshare":"$600,000",
+        "fundingyear":"2011",
+        "location":"Chicago, IL",
+        "marker-size": "medium",
+        "category":"Market Acceleration and Deployment",
+        "marker-color": "#FECB00",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-87.629699, 41.783601]
+    },
+    "id": "ab86eb9240e95838ea7dde87a601c71d"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-icyzy1236",
+        "title": "<h3>Great Lakes Wind Collaborative: Best Practices to Accelerate Wind Power in the Great Lakes Region and Beyond</h3>",
+        "description": "The Great Lakes Commission, an interstate agency based in Ann Arbor, Michigan, conducted a study in support of states in the Great Lakes region to identify best practices and policies for wind development; build awareness and knowledge among all wind energy stakeholders for best practices and policies; and build capacity among states to create policies based on an assessment of the benefits of wind power projects in the Great Lakes region.",
+        "recipient":"Great Lakes Commission",
+        "totaldoeshare":"$99,730",
+        "fundingyear":"2009",
+        "location":"Ann Arbor, MI",
+        "marker-size": "medium",
+        "category":"Market Acceleration and Deployment",
+        "marker-color": "#FECB00",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-83.726806, 42.252917]
+    },
+    "id": "ab98d5769102423bec4c7acb792abed8"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-icz676g70",
+        "title": "<h3 style=\"color:#E37222\">Floating Platform Dynamics Models</h3>",
+        "description": "The National Renewable Energy Laboratory-led team is improving the hydrodynamics modeling capability of FAST, an open-source computer-aided engineering tool. The added features will improve modeling of extreme wave loads and response in severe sea states. Validation will make use of data being collected from international floating wind demonstration projects.",
+        "recipient":"National Renewable Energy Laboratory (operated by Alliance for Sustainable Energy, LLC)",
+        "totaldoeshare":"$1,500,000",
+        "fundingyear":"2011",
+        "location":"olden, CO",
+        "marker-size": "medium",
+        "category":"Technology Development",
+        "marker-color": "#E37222",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-105.19392, 39.750753]
+    },
+    "id": "b11f8625805edd515ab36d913595d42a"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-icyzpkpc5",
+        "title": "<h3>U.S. Wind Energy Manufacturing and Supply Chain: A Competitiveness Analysis</h3>",
+        "description": "Building on their existing database of wind energy supplier capabilities, GLWN interviewed major companies involved in the offshore   global production of wind energy to identify potential resource requirements and global competitiveness as well as gaps in the supplier value stream. In addition, they collaborated with established wind industry partners, associates and National Institutes of Standards and Technology Manufacturing Extension Partnerships in the coastal states. The findings from this study will be made available on the web, and presented at workshops, key wind industry forums, and conferences.",
+        "recipient":"GLWN (Westside Industrial Retention and Expansion Network)",
+        "totaldoeshare":"$300,000",
+        "fundingyear":"",
+        "location":"OH",
+        "marker-size": "medium",
+        "category":"Market Acceleration and Deployment",
+        "marker-color": "#FECB00",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-82.749023, 40.747256]
+    },
+    "id": "b340ffd360c6a0ea4cb0bbcd74113cdd"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-icz6v0k51",
+        "title": "<h3 style=\"color:#E37222\">Coupled Wind/Wave Simulation Models to Characterize Hurricane Load Cases</h3>",
+        "description": "The National Renewable Energy Laboratory (NREL)-led team is developing a Coupled Hydro-Aerodynamic Interface for Storm Environments using the fully coupled atmosphere-wave-ocean forecast model now used for hurricane research and prediction, linked to the NREL-developed FAST wind turbine simulation software. This will facilitate improved systems designs and lowered risk for offshore wind turbine systems located in extreme weather areas.",
+        "recipient":"National Renewable Energy Laboratory (operated by Alliance for Sustainable Energy, LLC)",
+        "totaldoeshare":"$400,000",
+        "fundingyear":"2011",
+        "location":"Golden, CO",
+        "marker-size": "medium",
+        "category":"Technology Development",
+        "marker-color": "#E37222",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-105.189542, 39.751215]
+    },
+    "id": "b723e3d73489ba4f92a56e8181192837"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-icz5rfiae",
+        "title": "<h3 style=\"color:#E37222\">User Friendly Analysis Tool for Optimized Offshore Wind Installation, Operation and Maintenance Strategies</h3>",
+        "description": "Garrad Hassan America identified and quantified key areas for offshore wind project installation and operations where advancements in the approach or technology may lower the cost of energy produced by offshore wind plants. The project developed a user-friendly tool that enables project developers, owners, and managers to evaluate and compare how various installation and maintenance strategies and technical approaches impact cost of energy.",
+        "recipient":"Garrad Hassan America, Inc.",
+        "totaldoeshare":"$199,100",
+        "fundingyear":"2011",
+        "location":"San Diego, CA",
+        "marker-size": "medium",
+        "category":"Technology Development",
+        "marker-color": "#E37222",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-117.246093, 32.851903]
+    },
+    "id": "b835d91f8243f46676c050430a035e39"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-ici1bjyo0",
+        "title": "<h2 style=\"color:#E37222\">Cost of Energy Reduction for Offshore Tension Leg Platform Wind Turbine Systems through Advanced Control Strategies for Energy Yield Improvement, Load Mitigation and Stabilization</h2>",
+        "description": "Alstom Power is developing an advanced control system that integrates innovative sensors on a floating wind turbine design. This control system will maximize energy production while providing technology for effective monitoring and adjustment to prevent excessive loads on the turbine that reduce power generation.",
+        "recipient":"Alstom Power, Inc.",
+        "totaldoeshare":"$4,130,55",
+        "fundingyear":"2011",
+        "location":"Richmond, VA",
+        "marker-size": "medium",
+        "category":"Technology Development",
+        "marker-color": "#E37222",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-77.426147, 37.544577]
+    },
+    "id": "ba081528631c0eb01f10957e9c1c3433"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-icz9q9lu7",
+        "title": "<h3>Field Evaluation and Validation of Remote Wind Sensing Technologies: Shore-Based and Buoy Mounted LIDAR Systems</h3>",
+        "description": "Stevens Institute of Technology is systematically evaluating the capability of scanning and vertically profiling LIDAR to accurately measure the three-dimensional wind field, in comparison to fixed meteorological towers. The project will also quantify variability in offshore winds off the coast of New Jersey.",
+        "recipient":"tevens Institute of Technology",
+        "totaldoeshare":"$702,000",
+        "fundingyear":"2011",
+        "location":"Hoboken, NJ",
+        "marker-size": "medium",
+        "category":"Market Acceleration and Deployment",
+        "marker-color": "#FECB00",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-74.031372, 40.746996]
+    },
+    "id": "bd86419632915a28c8d3dab5e6acd176"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-id0abmhi2",
+        "title": "<h3 style=\"color:#E37222;\">Innovative Offshore Wind Plant System Design Studies</h3>",
+        "description": "Glosten Associates is developing the design of an offshore wind farm in water depths exceeding 60 meters using floating offshore wind tension leg platforms. This project will create tools for optimizing floating offshore wind TLPs, perform testing on new anchor tendons, and develop the preliminary design for a TLP installation vessel.",
+        "recipient":"Glosten Associates, Inc.",
+        "totaldoeshare":"$401,941",
+        "fundingyear":"2011",
+        "location":"Seattle, WA",
+        "marker-size": "medium",
+        "category":"Technology Development",
+        "marker-color": "#E37222",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-122.20642, 47.606163]
+    },
+    "id": "c06fba8efc132e0dfbb534918883936b"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-ici2ph339",
+        "title": "<h2 style=\"color:#E37222\">High-Efficiency Structural Flowthrough Rotor with Active Flap Control</h2>",
+        "description": "Zimitar is creating a two-bladed wind turbine design that incorporates active aerodynamic controls. This project will result in rotors that are lighter than conventional designs, which will increase energy capture and reduce the cost of energy.",
+        "recipient":"Zimitar, Inc.",
+        "totaldoeshare":"$3,998,763",
+        "fundingyear":"2011",
+        "location":"San Francisco, CA",
+        "marker-size": "medium",
+        "category":"Technology Development",
+        "marker-color": "#E37222",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-122.420654, 37.788081]
+    },
+    "id": "c689b7c88c4d1a1edd9afefd706fef8f"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-icz9uum98",
+        "title": "<h3>Improving Atmospheric Models for Offshore Wind Resource Mapping and Prediction Using LIDAR, Aircraft, and In-Ocean Observations</h3>",
+        "description": "State University of New York is verifying instrumentation and developing an improved understanding of modeling and boundary layer physics through intensive data collection around the Cape Wind site. The improved modeling will be applied to constructing more accurate wind resource maps for the East Coast of the United States.",
+        "recipient":"The Research Foundation of the State University of New York (led by Stony Brook University)",
+        "totaldoeshare":"$675,219",
+        "fundingyear":"2011",
+        "location":"Stony Brook, NY",
+        "marker-size": "medium",
+        "category":"Market Acceleration and Deployment",
+        "marker-color": "#FECB00",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-73.140277, 40.928688]
+    },
+    "id": "c784f45b11b1e1cf499bef8337b3e32c"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-icyvg00s0",
+        "title": "<h3>Great Lakes Offshore Wind: Utility and Regional Integration Study</h3>",
+        "description": "Case Western University is evaluating potential impacts of offshore wind on the electric grid in the Great Lakes region and determining requirements for interconnection, control systems, and the application of additional support for different transmission systems. The project is providing regional stakeholders with the knowledge base and capabilities to develop state-of-the-art, long-range strategies for mitigating the impacts of offshore wind interconnection, as well as realizing the economic cost reductions and benefits that can be achieved through implementing these strategies. </",
+        "recipient":"Case Western Reserve University",
+        "totaldoeshare":"$540,000",
+        "fundingyear":"2011",
+        "location":"Cleveland, OH",
+        "marker-size": "medium",
+        "category":"Market Acceleration and Deployment",
+        "marker-color": "#FECB00",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-81.694335, 41.516803]
+    },
+    "id": "c9d33664ee09714cf33ef6db6426eed7"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-icz7dtyt5",
+        "title": "<h3 style=\"color:#E37222\">A High-Performance Computing “Cyber Wind Facility” Incorporating Fully Coupled Computational Fluid Dynamics and Computational Structural Dynamics for Turbine-Platform-Wake Interactions with the Atmosphere and Ocean</h3>",
+        "description": "Pennsylvania State University is developing a computer-modeled “Cyber Wind Facility” to simulate large wind energy array performance for both offshore and land-based wind turbines. The Cyber Wind Facility will model the impacts of complex wind and wave dynamics on wind turbine structures and energy performance, enabling developers to make more informed decisions on array and turbine placements.",
+        "recipient":"The Pennsylvania State University",
+        "totaldoeshare":"$1,200,000",
+        "fundingyear":"2011",
+        "location":"University Park, PA",
+        "marker-size": "medium",
+        "category":"Technology Development",
+        "marker-color": "#E37222",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-77.862167, 40.809131]
+    },
+    "id": "c9ffa70aa4e21da8066d29aa6f984fc6"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-icz7v3318",
+        "title": "<h3 style=\"color:#E37222\">Bottom Fixed Platform Dynamics Models Assessing Surface Ice Interactions for Transitional Depth Structures in the Great Lakes</h3>",
+        "description": "The University of Michigan is developing a modeling tool to simulate surface ice impact on innovative wind turbine substructure designs. The project will lead to the development of an ice-loading design module simulating interaction of freshwater ice features with offshore wind turbine structures in the Great Lakes.",
+        "recipient":"University of Michigan, Board of Regents",
+        "totaldoeshare":"$399,998",
+        "fundingyear":"2011",
+        "location":"Ann Arbor, MI",
+        "marker-size": "medium",
+        "category":"Technology Development",
+        "marker-color": "#E37222",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-83.935546, 42.293564]
+    },
+    "id": "cbf0f01f5ee5f541f5f69998b8c93460"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-ic7pkaj90",
+        "title": "<h2 style=\"color:#E37222\">Lightweight, Direct Drive, Fully Superconducting Generator for Large Wind Turbines</h2>",
+        "description": "Advanced Magnet Lab is developing an innovative superconducting direct-drive generator for large wind turbines. The project will employ a new technology for the drivetrain coil configuration to address technical challenges of large torque electric machines.",
+        "recipient":"Advanced Magnet Lab, Inc.",
+        "totaldoeshare":" $1,896,850",
+        "fundingyear":"2011",
+        "location": "Palm Bay, FL",
+        "marker-size": "medium",
+        "category":"Technology Development",
+        "marker-color": "#E37222",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-80.649261, 28.04653]
+    },
+    "id": "cic7pvrbp013tu1m4nwwbrho1"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-icz4y5mr8",
+        "title": "<h3>U.S. Offshore Wind Manufacturing and Supply Chain Development</h3>",
+        "description": "Navigant Consulting examined factors and strategies influencing development of a U.S. supply chain for the offshore wind industry. Through industry surveys and stakeholder forums, the project identified potential gaps in the supply chain and opportunities for manufacturers and technical services companies to contribute to the domestic content of offshore project facilities.",
+        "recipient":"Navigant Consulting, Inc.",
+        "totaldoeshare":"$349,998",
+        "fundingyear":"2011",
+        "location":"Chicago, IL",
+        "marker-size": "medium",
+        "category":"Market Acceleration and Deployment",
+        "marker-color": "#FECB00",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-87.637939, 41.892055]
+    },
+    "id": "d6c4d3f7aae409ddcd77084c19ad0543"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-icyvkw251",
+        "title": "<h3>Carolinas Offshore Wind Integration Case Study</h3>",
+        "description": "Duke Energy Business Services conducted a study that examined the potential system impacts of offshore wind development on the Duke Energy Carolinas system, determined the costs of upgrading the transmission system to support large-scale offshore projects, and assessed strategies for system integration and management. The first phase of the study found that new high-voltage transmission infrastructure is needed to reliably integrate offshore wind resource",
+        "recipient":"Duke Energy Business Services, LLC",
+        "totaldoeshare":"$534,910",
+        "fundingyear":"2011",
+        "location":"Charlotte, NC",
+        "marker-size": "medium",
+        "category":"Market Acceleration and Deployment",
+        "marker-color": "#FECB00",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-80.848388, 35.236646]
+    },
+    "id": "d6d90c3dc14f6aa948de4b966bbd4db5"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-icza7b6ob",
+        "title": "<h3>Bat and Avian Migration Along the Lake Michigan Coastline: A Pilot Study to Inform Wind Turbine Siting</h3>",
+        "description": "Michigan State University studied bird and bat migration routes near the Great Lakes coastline in high-priority wind development areas. The project is providing valuable information to the wind power industry for the siting of both individual turbines and large wind farms.",
+        "recipient":"Michigan State University",
+        "totaldoeshare":"$99,951",
+        "fundingyear":"2009",
+        "location":"East Lansing, MI",
+        "marker-size": "medium",
+        "category":"Market Acceleration and Deployment",
+        "marker-color": "#FECB00",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-84.483489, 42.746507]
+    },
+    "id": "d77595aa2719b1336abaadbef800aa27"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-icz9y3qi9",
+        "title": "<h3>Measurement and Analysis of Extreme Wave and Ice Actions in the Great Lakes for Offshore Wind Platform Design</h3>",
+        "description": "The University of Michigan is evaluating the conditions and processes for development of freshwater ice in the Great Lakes and its resulting impact on offshore wind energy support structures. The project will evaluate the seasonal and decade-long trends in historical icing data through field measurements and by evaluating extreme loading due to combined wind, wave, and icing effects.",
+        "recipient":"University of Michigan, Board of Regents",
+        "totaldoeshare":"$692,782",
+        "fundingyear":"2011",
+        "location":"Ann Arbor, MI",
+        "marker-size": "medium",
+        "category":"Market Acceleration and Deployment",
+        "marker-color": "#FECB00",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-84.177246, 42.30169]
+    },
+    "id": "da851de687e78eec314d972e4c42c17d"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-id0b0g0y0",
+        "title": "<h3 style=\"color:#E37222;\">Large Wind Turbine Drivetrain Testing Facility</h3>",
+        "description": "Clemson University constructed a large wind turbine drivetrain test facility. The test facility will enhance the performance, durability, and reliability of both land-based and offshore utility-scale wind turbines by enabling the United States to expand its development and testing of large-scale drivetrain systems in the 5-15 megawatt range.",
+        "recipient":"Clemson University",
+        "totaldoeshare":"$44,555,252",
+        "fundingyear":"2009",
+        "location":"Charleston, SC",
+        "marker-size": "medium",
+        "category":"Technology Development",
+        "marker-color": "#E37222",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-79.942016, 32.851903]
+    },
+    "id": "dc41330f2499a25b33c51a80b1fb9146"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-icyw4duz3",
+        "title": "<h3>Optimized Vessel Assessment for Offshore Wind in the United States</h3>",
+        "description": "Douglas-Westwood identified the national vessel requirements under several offshore wind industry growth scenarios. The project collected data on the vessels currently deployed in the international offshore wind industry; assessed necessary trends for future dedicated vessels; and identified resources to implement innovative strategies to support companies seeking to build new vessels and establish related services as the industry grows.",
+        "recipient":"Douglas-Westwood, LLC",
+        "totaldoeshare":"$300,000",
+        "fundingyear":"2011",
+        "location":"New York, NY",
+        "marker-size": "medium",
+        "category":"Market Acceleration and Deployment",
+        "marker-color": "#FECB00",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-73.987426, 40.744135]
+    },
+    "id": "e85521b68fb0adbff12e0cc37d468924"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-icz7gs776",
+        "title": "<h3 style=\"color:#E37222\">Advanced Offshore Wind Energy: Atlantic Consortium</h3>",
+        "description": "The University of Delaware is focused on establishing the design requirements for the offshore wind industry in the United States. Research includes: resistance to extreme weather and corrosion; top-to-bottom redesign of offshore turbines to meet unique requirements, including engineering of underwater mounting, gearbox improvement, and corrosion characterization; development of educational programs; and a university program to train design professionals and managers.",
+        "recipient":"University of Delaware",
+        "totaldoeshare":"$747,540",
+        "fundingyear":"2009",
+        "location":"Newark, DE",
+        "marker-size": "medium",
+        "category":"Technology Development",
+        "marker-color": "#E37222",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-75.750732, 39.650112]
+    },
+    "id": "ec376061e9bfeb39d67c4db6ee8109a5"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-ici2ja418",
+        "title": "<h2 style=\"color:#E37222\">Offshore 12-Megawatt Turbine Rotor with Advanced Materials and Passive Design Concepts</h2?",
+        "description": "Siemens Energy is investigating the use of various passive aeroelastic and aerodynamic control technologies for their potential to improve the aerodynamic performance of wind turbine blades and decrease the cost of energy.",
+        "recipient":"Siemens Energy, Inc.",
+        "totaldoeshare":"$4,093,185",
+        "fundingyear":"2011",
+        "location":"Orlando, FL",
+        "marker-size": "medium",
+        "category":"Technology Development",
+        "marker-color": "#E37222",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-81.392211, 28.579697]
+    },
+    "id": "efd52af582c8231587681cd49c5a1024"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-icz7wyg49",
+        "title": "<h3 style=\"color:#E37222\">High-Resolution Computational Algorithms for Simulating Offshore Wind Farms</h3>",
+        "description": "The University of Minnesota is developing computational tools to simulate wave and wind interactions within various floating offshore wind farm configurations. The project is validating computational models using data from laboratory measurements specifically tailored to emulate the key dynamic features of floating wind turbines and farms, as well as field data from a land-based field site. The computational tools will be tailored to take full advantage of high-performance computing and will thus enable industry to design efficient and reliable offshore turbines and optimize turbine arrays on a site-specific basis.",
+        "recipient":"University of Minnesota, Board of Regents",
+        "totaldoeshare":"$1,200,000",
+        "fundingyear":"2011",
+        "location":"Minneapolis, MN",
+        "marker-size": "medium",
+        "category":"Technology Development",
+        "marker-color": "#E37222",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-93.295898, 44.995882]
+    },
+    "id": "f27f00b5a3efc8370b309d9a6cf18fb2"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-icza1y3na",
+        "title": "<h3>Modeling Wildlife Densities and Habitat Use Across Temporal and Spatial Scales on the Mid-Atlantic Continental Shelf</h3>",
+        "description": "Biodiversity Research Institute is collecting and analyzing data on bird, sea turtle, and marine mammal abundance and movement in the mid-Atlantic region to determine species risk to offshore wind plant interaction. The project is performing baseline surveys using a variety of technologies to develop predictive and risk assessment frameworks.",
+        "recipient":"Biodiversity Research Institute",
+        "totaldoeshare":"$4,500,000",
+        "fundingyear":"2011",
+        "location":"Gorham, ME",
+        "marker-size": "medium",
+        "category":"Market Acceleration and Deployment",
+        "marker-color": "#FECB00",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-70.444335, 43.697665]
+    },
+    "id": "f3af14035493386486bb2eb9bd9542fc"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-icz7sqxr7",
+        "title": "<h3 style=\"color:#E37222\">DeepCWind - Deepwater Offshore Wind Consortium</h3>",
+        "description": "The University of Maine is developing floating offshore wind farm technologies for deepwater development. The project will partially  validate computer models for designing and analyzing floating offshore wind turbines and research integrating more durable, lighter, hybrid composite materials into offshore wind floating platforms and towers.",
+        "recipient":"University of Maine",
+        "totaldoeshare":"$7,100,000",
+        "fundingyear":"2009",
+        "location":"Orono, ME",
+        "marker-size": "medium",
+        "category":"Technology Development",
+        "marker-color": "#E37222",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-68.674163, 44.886039]
+    },
+    "id": "f4b1e2f7a4e5a179adca75f1555c11d2"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-ici1trnn3",
+        "title": "<h2 style=\"color:#E37222\">Reliable, Lightweight Transmission for Offshore, Utility-Scale Wind Turbines</h2>",
+        "description": "Eaton Corporation conducted research to reduce the technical risk for a hydrostatic drivetrain for high-power, utility-scale wind turbines. Research included detailed design and cost analysis of key components including the pump, shaft connection, and controls.",
+        "recipient":"Eaton Corporation",
+        "totaldoeshare":"$533,518",
+        "fundingyear":"2011",
+        "location":"Southfield, MI",
+        "marker-size": "medium",
+        "category":"Technology Development",
+        "marker-color": "#E37222",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-83.221092, 42.477161]
+    },
+    "id": "f54099c899970d362739411ab3bdf3b9"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-icz8140ta",
+        "title": "<h3 style=\"color:#E37222;\">Advanced Offshore Wind Turbine/Foundation Concept for the Great Lakes</h3>",
+        "description": "The University of Toledo is developing computer modeling for a two-bladed downwind offshore turbine and foundation design. The project is also creating curriculum for offshore wind turbine design at the University of Toledo.",
+        "recipient":"University of Toledo",
+        "totaldoeshare":"$750,000",
+        "fundingyear":"2009",
+        "location":"Toledo, OH",
+        "marker-size": "medium",
+        "category":"Technology Development",
+        "marker-color": "#E37222",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-83.50708, 41.689322]
+    },
+    "id": "f580fb7b055134ea55918bc513baae29"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-ici20opm4",
+        "title": "<h2 style=\"color:#E37222\">Superconductivity for Large-Scale Wind Turbines</h2>",
+        "description": "GE Global Research adapted low-temperature superconductivity technology to the design of a direct-drive wind turbine generator at the 10 megawatt power level. The design employs a unique stationary superconducting component design that reduces the risk of cryogenic fluid leakage.",
+        "recipient":"General Electric (GE) Global Research",
+        "totaldoeshare":"$449,183",
+        "fundingyear":"2011",
+        "location":"Niskayuna, NY",
+        "marker-size": "medium",
+        "category":"Technology Development",
+        "marker-color": "#E37222",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-73.846321, 42.782803]
+    },
+    "id": "f5d8657b2dce0d6ead7a64400613792d"
+}
+
+{
+    "type": "Feature",
+    "properties": {
+        "id": "marker-icz92guw1",
+        "title": "<h3 style=\"color:#1F82BB;\">WindFloat Pacific Offshore Wind Demonstration Project</h3>",
+        "description": "Principle Power will install five WindFloat semi-submersible foundations outfitted with 6-megawatt direct-drive offshore wind turbines. The project will be sited in deep water approximately 18 miles off the coast of Coos Bay, Oregon, and will facilitate the optimization of semi-submersible substructures and floating foundations for large turbines.",
+        "recipient":"Principle Power, Inc.",
+        "totaldoeshare":"$46,666,667",
+        "fundingyear":"2012",
+        "location":"Multi-state",
+        "marker-size": "medium",
+        "category":"Advanced Technology Demonstration",
+        "marker-color": "#1F82BB",
+        "marker-symbol": ""
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-122.272338, 37.903032]
+    },
+    "id": "facd820fe1b1f1ba5df794837fdca7fd"
+}
