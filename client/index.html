@@ -30,6 +30,17 @@
           border-radius: 3px;
       }
     </style>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script>
+      (function() {
+          var so = document.createElement('script');
+          so.type = 'text/javascript';
+          so.async = true;
+          so.src = '//apps1.eere.energy.gov/includes/ga/eere.js';
+          var s = document.getElementsByTagName('script')[0];
+          s.parentNode.insertBefore(so, s);
+      })();
+    </script>
 </head>
 
 <body>
@@ -38,7 +49,6 @@
 <div id="map"></div>
 
 <script src="//api.mapbox.com/mapbox.js/v2.2.1/mapbox.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/handlebars.js/3.0.3/handlebars.min.js"></script>
 
 <script>
