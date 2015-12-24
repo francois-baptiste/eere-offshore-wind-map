@@ -76,10 +76,10 @@
 
     L.mapbox.accessToken = mapConfig.token
 
-    var map = L.mapbox.map('map', mapConfig.tiles)
+    var map = L.mapbox.map( 'map', mapConfig.tiles )
 
     map.setView(
-        [mapConfig.lon, mapConfig.lat ]
+        [ mapConfig.lon, mapConfig.lat ]
       , mapConfig.zoom
     )
 
@@ -88,7 +88,7 @@
      * Event handler for checkbox clicks
      *
      */
-    var update = function(checkboxes, featureLayer) {
+    var update = function( checkboxes, featureLayer ) {
 
         var enabled = {}
 
@@ -110,7 +110,7 @@
      * Build checkbox UI elements
      *
      */
-    var buildUI = function(checkboxes, types, featureLayer) {
+    var buildUI = function( checkboxes, types, featureLayer ) {
         var item
           , checkbox
           , label
@@ -195,23 +195,27 @@
      * @param {object} e event object
      */
     var setPopupContent = function(e) {
-      var markerprops = e.layer.feature.properties
+      var marker = e.layer
+        , markerprops = marker.feature.properties
+        , content = '' +
+            '<h3>'+ markerprops.title +'</h3>' +
+            '<p>' +
+            '<b>Recipient: </b>' + markerprops.recipient +'<br>' +
+            '<b>Location: </b>' + markerprops.location +'<br>' +
+            '<b>Total DOE Share: </b>' + markerprops.totaldoeshare +'<br>' +
+            '<b>Funding year: </b>' + markerprops.fundingyear +'<br>' +
+            '<b>Description: </b>'+ markerprops.description +'<br>' +
+            '</p>'
 
-      var content = '' +
-        '<h3>'+ markerprops.title +'</h3>' +
-        '<p>' +
-        '<b>Recipient: </b>' + markerprops.recipient +'<br>' +
-        '<b>Location: </b>' + markerprops.location +'<br>' +
-        '<b>Total DOE Share: </b>' + markerprops.totaldoeshare +'<br>' +
-        '<b>Funding year: </b>' + markerprops.fundingyear +'<br>' +
-        '<b>Description: </b>'+markerprops.description +'<br>' +
-        '</p>'
+        if ( markerprops.icon ) {
+          marker.setIcon( L.icon( markerprops.icon ) )
+        }
 
-        e.layer.bindPopup(content)
+        marker.bindPopup( content )
     }
 
     // todo: convert to $.ajax and handle params better
-    var dfd = $.getJSON( mapConfig.api + mapConfig.qstring)
+    var dfd = $.getJSON( mapConfig.api + mapConfig.qstring )
 
 
     dfd.done( function( rawjson ){
@@ -227,12 +231,13 @@
       featureLayer = L.mapbox.featureLayer()
 
       featureLayer
-        .addTo(map)
-        .on( 'layeradd', setPopupContent)
-        .setGeoJSON(geojson)
+        .addTo( map )
+        .on( 'layeradd', setPopupContent )
+        .setGeoJSON( geojson )
 
       geojson.features.forEach( function(feature) {
-          typesObj[ feature.properties.category ] = true
+          if ( feature.properties && feature.properties.category )
+            typesObj[ feature.properties.category ] = true
       })
 
 
@@ -240,7 +245,7 @@
         types.push(k)
       }
 
-      buildUI(checkboxes, types, featureLayer)
+      buildUI( checkboxes, types, featureLayer )
 
     })
 //})();
