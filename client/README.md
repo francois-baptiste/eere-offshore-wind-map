@@ -19,9 +19,15 @@ git push using:  origin gh-pages
 Counting objects: 3, done.
 
 Delta compression using up to 4 threads.
+
 Compressing objects: 100% (1/1), done.
+
 Writing objects: 100% (3/3), 303 bytes | 0 bytes/s, done.
+
 Total 3 (delta 2), reused 2 (delta 2)
+
 remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+
 To github.com:NREL/eere-offshore-wind-map.git   
+
     b470990..372d8b1  372d8b1983b50d20d93d7a628c068774b0c3a8b2 -> gh-pages
